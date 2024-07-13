@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Chan Meng </br> 
 </h1>
-<p align="center">A minimalist 🌿</p>
+<p align="center">🌿 A minimalist</p>
 <p align="center">➖ Subtraction for life</p>
 <p align="center">➕ Addition for thought</p>
 <p align="center">
@@ -104,4 +104,4 @@ if (codeWorking){
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChanMeng666&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
