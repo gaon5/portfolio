@@ -14,80 +14,61 @@
 </> and Crafted with 💛 by Chan Meng
 
 ### <img src="https://corde.nz/wp-content/uploads/2021/10/corde_main_type_logo_black.png" width="100px" /> Smart Offline Data Collection System
-[Smart Offline Data Collection System](https://github.com/ChanMeng666/CORDE-Mobile-Application) is a groundbreaking project where I spearhead the development of a mobile app for CORDE, designed to function without internet connectivity. This app captures text, photos, and GPS coordinates and syncs with the Workbench service desk logs when online. It integrates the ArcGIS map layer to display critical asset-related information, enhancing field staff efficiency and data accuracy.
+[Smart Offline Data Collection System](https://github.com/ChanMeng666/CORDE-Mobile-Application) is a cutting-edge mobile application developed for CORDE, designed to function seamlessly without internet connectivity. It captures text, photos, and GPS coordinates and syncs with Workbench service desk logs upon reconnecting. Featuring ArcGIS map layer integration, this system significantly enhances field staff efficiency and data accuracy. 🌐
 
 #### 🚀 Technical Stack:
-- **React Native:** For crafting a seamless cross-platform mobile experience. 📱
-- **Android Native:** To enhance specific Android functionalities. 🤖
-- **Native Base:** As the primary UI framework, accelerating stylish UI design. 🎨
-
-#### 🔍 API Testing and Management:
-- **APIfox:** Ensures the reliability and stability of interfaces. 🔧
-
-#### 💻 Development Environment and Tools:
-- **WebStorm:** My primary code editor, enhancing my coding efficiency. 💻
-- **Android Studio:** For in-depth native feature development and debugging. 🛠️
-- **Thunder Simulator and Actual Android Devices:** Tests the app in simulated environments and real-world settings to ensure stability and performance. ⚡📲
-
-### <img src="https://agrihireaq.pythonanywhere.com/static//images/logo/logo_component.svg" width="100px" /> AgriHire Solutions Equipment and Order Management System
-[AgriHire Solutions Equipment and Order Management System](https://agrihireaq.pythonanywhere.com/) is a cutting-edge IT solution developed with Lincoln University (NZ), designed to enhance the efficiency of agricultural machinery rentals. This comprehensive digital platform replaces outdated Excel spreadsheets and manual processes, revolutionising order processing, payment integrations, and customer communications 🌾.
-
-#### 🚀 Technical Stack and Innovations:
-- **Languages & Frameworks:** Utilised HTML, CSS, JavaScript, Python, and Bootstrap for a responsive design.
-- **Database & APIs:** Integrated MySQL and MaxKB API, with leaflet.js for dynamic map displays.
-- **Additional Tools:** Leveraged SendGrid for automated emailing and ECharts for interactive data visualisation.
+- **React Native:** For a seamless cross-platform mobile experience. 📱
+- **Android Native:** Enhancing specific Android functionalities. 🤖
+- **Native Base:** Primary UI framework for a stylish and responsive design. 🎨
 
 #### 💡 Key Features:
-- Developed a robust data model and a user-friendly GUI that ensures a seamless experience for both customers and staff.
-- Enabled real-time tracking, efficient inventory management, and comprehensive reporting capabilities through agile development and rigorous testing.
-- The deployment dramatically improved operational efficiencies and customer satisfaction for AgriHire Solutions, showcasing my expertise in creating scalable software solutions and driving innovation within teams.
+- **APIfox:** Ensures reliable and stable API interactions. 🔧
+- **WebStorm:** Main code editor, enhancing coding efficiency. 💻
+- **Android Studio & Thunder Simulator:** For comprehensive feature development and robust testing. 🛠️
 
-🌟 **Experience the Solution:**
-- **Live Deployment:** [AgriHire Solutions Live](https://agrihireaq.pythonanywhere.com/)
-- **GitHub Repository:** [AgriHire Solutions GitHub](https://github.com/ChanMeng666/AgriHire-Solutions)
-
-
-### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="100px" /> Countryside Community Swimming Club Management System
-[Countryside Community Swimming Club Management System](https://github.com/ChanMeng666/Countryside-Community-Swimming-Club) revolutionized club management by enhancing operations, user engagement, and transaction security with its intuitive interface. This project was conducted in collaboration with Lincoln University (NZ) and set a new standard for community sports facilities management. 🏊
+### <img src="https://agrihireaq.pythonanywhere.com/static/images/logo/logo_component.svg" width="100px" /> AgriHire Solutions Equipment and Order Management System
+[AgriHire Solutions Equipment and Order Management System](https://github.com/ChanMeng666/AgriHire-Solutions) is a revolutionary IT solution from Lincoln University (NZ) that transforms agricultural machinery rentals. This digital platform overhauls traditional processes, revolutionising order processing and customer interactions with advanced payment integrations and real-time tracking. 🚜
 
 #### 🚀 Technologies Used:
-- **Programming Languages & Frameworks:** Python, Flask
-- **Frontend:** HTML, CSS, Jinja, JavaScript, Bootstrap UI
-- **Database:** MySQL
-- **Deployment & Version Control:** PythonAnywhere, GitHub
-- **Project Management:** Jira
+- **Python & Flask:** Back-end development. 🐍
+- **HTML, CSS, JavaScript & Bootstrap:** For responsive front-end design. 🌍
+- **MySQL & MaxKB API:** Database management and dynamic data handling. 🗃️
+
+#### 💡 Key Features:
+- **SendGrid & ECharts:** For automated emailing and interactive data visualisation. 📊
+- **Leaflet.js:** For enhanced map display functionalities. 🗺️
+
+#### 🎯 See it Live:
+- [View the AgriHire Solutions Live](https://agrihireaq.pythonanywhere.com/)
+
+### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="50px" /> Countryside Community Swimming Club Management System
+[Countryside Community Swimming Club Management System](https://github.com/ChanMeng666/Countryside-Community-Swimming-Club) sets a new benchmark in community sports facility management, enhancing operational efficiencies and user engagement with an intuitive interface developed in collaboration with Lincoln University (NZ). 🏊‍♀
+
+#### 🚀 Technologies Used:
+- **Python & Flask:** For robust back-end development. 🐍
+- **HTML, CSS, Jinja & JavaScript:** Crafting a user-friendly front-end. 🖥️
+- **MySQL:** Secure and efficient data handling. 🗃️
 
 #### 💡 Key Contributions:
-- **System Architecture and Development:** Designed and implemented a comprehensive SQL data model, enhancing data security and retrieval efficiency. 🗄️
-- **Front-End Design and User Experience:** Crafted a user-friendly GUI focused on aesthetic appeal and easy navigation, significantly boosting user interaction and satisfaction. 🖥️
-- **Agile Methodology:** Participated in all stages of the agile development cycle, ensuring adaptability and continuous improvement. 🔄
-- **Problem-Solving:** Addressed critical system functionality issues by refining backend processes and the UI, demonstrating strong analytical skills and technical expertise. 🔧
+- **System Architecture:** Designed a comprehensive SQL data model. 🛠️
+- **Agile Methodology:** Ensured adaptability and continuous improvement through all development stages. 🔄
 
 #### 🎯 Outcomes:
-- **Enhanced Efficiency:** Automated key functions like membership management and class scheduling, reducing errors and cutting operational costs. 💼
-- **Improved User Satisfaction:** Delivered a robust, engaging platform that elevated user satisfaction across various groups. 🌟
-- **Scalable Solution:** Developed a scalable system ready for future expansions and tech integrations, paving the way for growth and innovation. 📈
+- **Enhanced Efficiency & User Satisfaction:** Automated essential functions and delivered a scalable, engaging platform. 💡
 
-✌ **GitHub Repository:** [Visit Here](https://github.com/ChanMeng666/Countryside-Community-Swimming-Club)
-
-### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="100px" /> Star Paddle Brick Breaker
-[Star Paddle Brick Breaker](https://github.com/ChanMeng666/html-brick-game) is an engaging web game that transforms the retro brick breaker experience with modern twists. Hosted on GitHub Pages, this game demonstrates the fusion of classic gameplay with contemporary web technologies, offering dynamic graphics and captivating gameplay to users worldwide. 🎮
+### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="50px" /> Star Paddle Brick Breaker
+[Star Paddle Brick Breaker](https://github.com/ChanMeng666/html-brick-game) reinvents the classic brick breaker game with a modern twist, demonstrating the fusion of traditional gameplay with cutting-edge web technologies. Hosted on GitHub Pages, this game captivates users globally with its dynamic graphics and responsive design. 🎮
 
 #### 🚀 Technical Stack:
-- **HTML5, CSS3, JavaScript:** Crafted a seamless gaming experience that is responsive across all devices.
-- **Canvas API, WebGL:** Utilized for dynamic graphics and effects that enhance the visual appeal and performance.
+- **HTML5, CSS3 & JavaScript:** Ensures a seamless gaming experience across all devices. 🌍
+- **Canvas API & WebGL:** Utilized for dynamic graphics and animations. 🎨
 
 #### 💡 Innovative Features:
-- **Custom-Built Game Engine:** Incorporates collision effects, tail particle animations, and themed game elements to enrich the gaming experience.
-- **Interactive Design:** Features responsive controls and dynamic feedback mechanisms, engaging players in continuous action.
+- **Custom-Built Game Engine:** Features collision effects and interactive design elements. 🔧
+- **GitHub Pages:** Facilitates smooth deployment and maintenance. 🚀
 
-#### 🎯 Deployment:
-- **GitHub Pages:** Ensures smooth deployment and easy maintenance, making the game accessible globally with minimal loading times.
-
-#### 🌐 See it Live:
-- **Play Now:** [Star Paddle Brick Breaker Live](https://chanmeng666.github.io/html-brick-game/)
-
-Through Star Paddle Brick Breaker, I showcase my expertise in developing interactive web applications that not only engage users but also deliver superior performance and style. As a developer, I am committed to pushing the boundaries of creativity and technical excellence, ready to bring innovative solutions to your team. 🌟
+#### 🎯 Play Now:
+- [Star Paddle Brick Breaker Live](https://chanmeng666.github.io/html-brick-game/)
 
 <p align="right">
 .. working on few more projects 😉 </p>
