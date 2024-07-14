@@ -83,6 +83,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000.svg?style=for-the-badge&logo=jupyter)
+
 
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
@@ -100,6 +102,9 @@
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Native Base](https://img.shields.io/badge/-Native%20Base-000.svg?style=for-the-badge&logo=nativebase)
+![React Native Elements](https://img.shields.io/badge/-React%20Native%20Elements-000.svg?style=for-the-badge&logo=react)
+![GlueStack-UI](https://img.shields.io/badge/-GlueStack%20UI-000.svg?style=for-the-badge&logo=gluestack)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 ![Layui](https://img.shields.io/badge/-Layui-000?style=for-the-badge&logo=layui&logoColor=029688)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?style=for-the-badge&logo=material-ui&logoColor=0081CB)
@@ -110,6 +115,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
+![Adobe Audition](https://img.shields.io/badge/-Adobe%20Audition-000.svg?style=for-the-badge&logo=adobe-audition)
 ![Balsamiq](https://img.shields.io/badge/-Balsamiq-000?style=for-the-badge&logo=balsamiq)
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-000?style=for-the-badge&logo=lucidchart)
 
@@ -174,6 +180,7 @@
 ![FullCalendar](https://img.shields.io/badge/-FullCalendar-000?style=for-the-badge&logo=fullcalendar)
 ![GSAP](https://img.shields.io/badge/-GSAP-000?style=for-the-badge&logo=greensock)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
+![Pygame](https://img.shields.io/badge/-Pygame-000000.svg?style=for-the-badge&logo=pygame)
 
 #### Interactive UI Components
 ![React Navigation](https://img.shields.io/badge/-React%20Navigation-000?style=for-the-badge&logo=react)
