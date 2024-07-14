@@ -170,7 +170,7 @@ if (codeWorking){
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=ChanMeng666&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=chanmeng666&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 
 
