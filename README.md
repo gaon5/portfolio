@@ -14,7 +14,7 @@
 [Chan Meng - Portfolio](https://www.chanmeng.live/) ,
 </> and Crafted with 💛 by Chan Meng
 
-### <img src="https://corde.nz/wp-content/uploads/2021/10/corde_main_type_logo_black.png" style="background-color: #000000;" width="100px" /> Smart Offline Data Collection System
+### <img src="https://corde.nz/wp-content/uploads/2021/10/corde_main_type_logo_black.png" width="100px" /> Smart Offline Data Collection System
 [Smart Offline Data Collection System](https://github.com/ChanMeng666/CORDE-Mobile-Application) is a groundbreaking project where I spearhead the development of a mobile app for CORDE, designed to function without internet connectivity. This app captures text, photos, and GPS coordinates and syncs with the Workbench service desk logs when online. It integrates the ArcGIS map layer to display critical asset-related information, enhancing field staff efficiency and data accuracy.
 
 #### 🚀 Technical Stack:
@@ -29,6 +29,23 @@
 - **WebStorm:** My primary code editor, enhancing my coding efficiency. 💻
 - **Android Studio:** For in-depth native feature development and debugging. 🛠️
 - **Thunder Simulator and Actual Android Devices:** Tests the app in simulated environments and real-world settings to ensure stability and performance. ⚡📲
+
+### <img src="https://agrihireaq.pythonanywhere.com/static//images/logo/logo_component.svg" width="100px" /> AgriHire Solutions Equipment and Order Management System
+[AgriHire Solutions Equipment and Order Management System](https://agrihireaq.pythonanywhere.com/) is a cutting-edge IT solution developed with Lincoln University (NZ), designed to enhance the efficiency of agricultural machinery rentals. This comprehensive digital platform replaces outdated Excel spreadsheets and manual processes, revolutionising order processing, payment integrations, and customer communications 🌾.
+
+#### 🚀 Technical Stack and Innovations:
+- **Languages & Frameworks:** Utilised HTML, CSS, JavaScript, Python, and Bootstrap for a responsive design.
+- **Database & APIs:** Integrated MySQL and MaxKB API, with leaflet.js for dynamic map displays.
+- **Additional Tools:** Leveraged SendGrid for automated emailing and ECharts for interactive data visualisation.
+
+#### 💡 Key Features:
+- Developed a robust data model and a user-friendly GUI that ensures a seamless experience for both customers and staff.
+- Enabled real-time tracking, efficient inventory management, and comprehensive reporting capabilities through agile development and rigorous testing.
+- The deployment dramatically improved operational efficiencies and customer satisfaction for AgriHire Solutions, showcasing my expertise in creating scalable software solutions and driving innovation within teams.
+
+🌟 **Experience the Solution:**
+- **Live Deployment:** [AgriHire Solutions Live](https://agrihireaq.pythonanywhere.com/)
+- **GitHub Repository:** [AgriHire Solutions GitHub](https://github.com/ChanMeng666/AgriHire-Solutions)
 
 
 <p align="right">
