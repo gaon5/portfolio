@@ -14,8 +14,22 @@
 [Chan Meng - Portfolio](https://www.chanmeng.live/) ,
 </> and Crafted with 💛 by Chan Meng
 
-### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  YTMP : YouTube Music Player 
-[YTMP : YouTube Music Player](https://ytmp.itsvg.in) is the First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
+### <img src="https://corde.nz/wp-content/uploads/2021/10/corde_main_logo-2048x683.png" width="16px" /> Smart Offline Data Collection System
+[Smart Offline Data Collection System](https://github.com/ChanMeng666/CORDE-Mobile-Application) is a groundbreaking project where I spearhead the development of a mobile app for CORDE, designed to function without internet connectivity. This app captures text, photos, and GPS coordinates and syncs with the Workbench service desk logs when online. It integrates the ArcGIS map layer to display critical asset-related information, enhancing field staff efficiency and data accuracy.
+
+#### 🚀 Technical Stack:
+- **React Native:** For crafting a seamless cross-platform mobile experience. 📱
+- **Android Native:** To enhance specific Android functionalities. 🤖
+- **Native Base:** As the primary UI framework, accelerating stylish UI design. 🎨
+
+#### 🔍 API Testing and Management:
+- **APIfox:** Ensures the reliability and stability of interfaces. 🔧
+
+#### 💻 Development Environment and Tools:
+- **WebStorm:** My primary code editor, enhancing my coding efficiency. 💻
+- **Android Studio:** For in-depth native feature development and debugging. 🛠️
+- **Thunder Simulator and Actual Android Devices:** Tests the app in simulated environments and real-world settings to ensure stability and performance. ⚡📲
+
 
 <p align="right">
 .. working on few more projects 😉 </p>
