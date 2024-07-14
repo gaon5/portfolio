@@ -76,10 +76,10 @@
 ## Tech Stack 💻
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
@@ -93,7 +93,7 @@
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 
 #### Mobile Development
-![Android Native](https://img.shields.io/badge/-Android%20Native-3DDC84?style=for-the-badge&logo=android)
+![Android Native](https://img.shields.io/badge/-Android%20Native-000?style=for-the-badge&logo=android)
 ![iOS Development](https://img.shields.io/badge/-iOS%20Development-000000?style=for-the-badge&logo=apple)
 
 
@@ -111,43 +111,43 @@
 
 #### Database/State
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-0000FF?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net)
+![.NET](https://img.shields.io/badge/-.NET-000?style=for-the-badge&logo=.net)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
-![APIfox](https://img.shields.io/badge/-Apifox-FF6B6B?style=for-the-badge&logo=apifox&logoColor=white)
+![APIfox](https://img.shields.io/badge/-Apifox-000?style=for-the-badge&logo=apifox&logoColor=white)
 
 #### Code Editor
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-000.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-0000FF.svg?style=for-the-badge&logo=webstorm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-000?style=for-the-badge&logo=python&logoColor=blue)
 
 #### CI/CD
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?style=for-the-badge&logo=azure-devops)
 
 #### Project Management
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira)
+![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira)
 
 #### Interactive UI Components
-![React Navigation](https://img.shields.io/badge/-React%20Navigation-61DAFB?style=for-the-badge&logo=react)
-![Driver.js](https://img.shields.io/badge/-Driver.js-F39C12?style=for-the-badge&logo=driver.js)
+![React Navigation](https://img.shields.io/badge/-React%20Navigation-000?style=for-the-badge&logo=react)
+![Driver.js](https://img.shields.io/badge/-Driver.js-000?style=for-the-badge&logo=driver.js)
 
 #### Data Visualization
-![ECharts](https://img.shields.io/badge/-ECharts-aa344d?style=for-the-badge&logo=apacheecharts)
+![ECharts](https://img.shields.io/badge/-ECharts-000?style=for-the-badge&logo=apacheecharts)
 
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
