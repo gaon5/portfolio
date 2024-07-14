@@ -84,7 +84,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 
-
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
@@ -98,7 +97,6 @@
 ![Android Native](https://img.shields.io/badge/-Android%20Native-000?style=for-the-badge&logo=android)
 ![iOS Development](https://img.shields.io/badge/-iOS%20Development-000000?style=for-the-badge&logo=apple)
 
-
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
@@ -108,10 +106,10 @@
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000?style=for-the-badge&logo=framer)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000?style=for-the-badge&logo=framer&logoColor=0055FF)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
 ![Balsamiq](https://img.shields.io/badge/-Balsamiq-000?style=for-the-badge&logo=balsamiq)
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-000?style=for-the-badge&logo=lucidchart)
 
@@ -124,23 +122,24 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-![.NET](https://img.shields.io/badge/-.NET-000?style=for-the-badge&logo=.net)
+![.NET](https://img.shields.io/badge/-.NET-000?style=for-the-badge&logo=.net&logoColor=512BD4)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 ![APIfox](https://img.shields.io/badge/-Apifox-000?style=for-the-badge&logo=apifox)
 
 #### Code Editor
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-000.svg?style=for-the-badge&logo=android-studio)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=purple)
+![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=1EBD3A)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000.svg?style=for-the-badge&logo=webstorm&logoColor=00C8FF)
-![DataSpell](https://img.shields.io/badge/DataSpell-000000?style=for-the-badge&logo=jetbrains)
+![DataSpell](https://img.shields.io/badge/DataSpell-000000?style=for-the-badge&logo=jetbrains&logoColor=CB0000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000.svg?style=for-the-badge&logo=visual-studio&logoColor=007ACC)
 
 #### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-000?style=for-the-badge&logo=python)
-![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-000?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900)
 
 #### CI/CD
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci&logoColor=343434)
@@ -148,13 +147,13 @@
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?style=for-the-badge&logo=azure-devops&logoColor=0078D4)
 
 #### Communication and Collaboration
-![Zoom](https://img.shields.io/badge/-Zoom-000?style=for-the-badge&logo=zoom)
-![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-000?style=for-the-badge&logo=microsoft-teams)
-![Miro](https://img.shields.io/badge/-Miro-000?style=for-the-badge&logo=miro)
-![Atlassian](https://img.shields.io/badge/-Atlassian-000?style=for-the-badge&logo=atlassian)
+![Zoom](https://img.shields.io/badge/-Zoom-000?style=for-the-badge&logo=zoom&logoColor=2D8CFF)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-000?style=for-the-badge&logo=teams&logoColor=6264A7)
+![Miro](https://img.shields.io/badge/-Miro-000?style=for-the-badge&logo=miro&logoColor=yellow)
+![Atlassian](https://img.shields.io/badge/-Atlassian-000?style=for-the-badge&logo=atlassian&logoColor=0052CC)
 
 #### Project Management
-![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira)
+![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![Docusaurus](https://img.shields.io/badge/-Docusaurus-000?style=for-the-badge&logo=docusaurus)
 
 #### Database Management
@@ -181,7 +180,7 @@
 ![Driver.js](https://img.shields.io/badge/-Driver.js-000?style=for-the-badge&logo=driver.js)
 
 #### Data Visualization
-![ECharts](https://img.shields.io/badge/-ECharts-000?style=for-the-badge&logo=apacheecharts)
+![ECharts](https://img.shields.io/badge/-ECharts-000?style=for-the-badge&logo=apacheecharts&logoColor=aa344d)
 
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
