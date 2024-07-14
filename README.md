@@ -4,7 +4,7 @@
 <p align="center">➖ Subtraction for life</p>
 <p align="center">➕ Addition for thought</p>
 <p align="center">
-<a href="https://www.chanmeng.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.chanmeng.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=docusaurus" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/chanmeng666/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 
 ## Creation 👩‍💻
@@ -91,6 +91,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
 ![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
+![jQuery](https://img.shields.io/badge/-jQuery-000?style=for-the-badge&logo=jquery)
 
 #### Mobile Development
 ![Android Native](https://img.shields.io/badge/-Android%20Native-000?style=for-the-badge&logo=android)
@@ -102,12 +103,16 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 ![Layui](https://img.shields.io/badge/-Layui-000?style=for-the-badge&logo=layui)
+![Material UI](https://img.shields.io/badge/-Material%20UI-000?style=for-the-badge&logo=material-ui)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000?style=for-the-badge&logo=framer)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Balsamiq](https://img.shields.io/badge/-Balsamiq-000?style=for-the-badge&logo=balsamiq)
+![Lucidchart](https://img.shields.io/badge/-Lucidchart-000?style=for-the-badge&logo=lucidchart)
 
 #### Database/State
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
@@ -127,20 +132,48 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
+![DataSpell](https://img.shields.io/badge/DataSpell-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-000?style=for-the-badge&logo=python&logoColor=blue)
+![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-000?style=for-the-badge&logo=amazonaws)
 
 #### CI/CD
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?style=for-the-badge&logo=azure-devops)
 
+#### Communication and Collaboration
+![Zoom](https://img.shields.io/badge/-Zoom-000?style=for-the-badge&logo=zoom)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-000?style=for-the-badge&logo=microsoft-teams)
+![Miro](https://img.shields.io/badge/-Miro-000?style=for-the-badge&logo=miro)
+![Atlassian](https://img.shields.io/badge/-Atlassian-000?style=for-the-badge&logo=atlassian)
+
 #### Project Management
 ![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira)
+![Docusaurus](https://img.shields.io/badge/-Docusaurus-000?style=for-the-badge&logo=docusaurus)
+
+#### Database Management
+![Navicat](https://img.shields.io/badge/-Navicat-000?style=for-the-badge&logo=navicat)
+
+#### OS and Platforms
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows)
+
+#### Email Services
+![SMTP](https://img.shields.io/badge/-SMTP-000?style=for-the-badge)
+![SendGrid](https://img.shields.io/badge/-SendGrid-000?style=for-the-badge&logo=sendgrid)
+
+#### Tools and Utilities
+![SDKMAN](https://img.shields.io/badge/-SDKMAN-000?style=for-the-badge&logo=SDKMAN)
+![nvm](https://img.shields.io/badge/-nvm-000?style=for-the-badge&logo=node.js)
+![Leaflet](https://img.shields.io/badge/-Leaflet-000?style=for-the-badge&logo=leaflet)
+![FullCalendar](https://img.shields.io/badge/-FullCalendar-000?style=for-the-badge&logo=fullcalendar)
+![GSAP](https://img.shields.io/badge/-GSAP-000?style=for-the-badge&logo=greensock)
+![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
 
 #### Interactive UI Components
 ![React Navigation](https://img.shields.io/badge/-React%20Navigation-000?style=for-the-badge&logo=react)
