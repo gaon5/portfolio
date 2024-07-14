@@ -4,11 +4,10 @@
 <p align="center">➖ Subtraction for life</p>
 <p align="center">➕ Addition for thought</p>
 <p align="center">
- <a href="https://www.chanmeng.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.chanmeng.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/chanmeng666/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 
 ## Creation 👩‍💻
-
 
 ### <img src="https://media.licdn.com/dms/image/D5622AQFyU1xtJ1rYOw/feedshare-shrink_800/0/1720436325373?e=1723680000&v=beta&t=pK4mzTJI-JH9YUDusFpIGkYoqAxt01pW3QKZZIOWrBI" width="100px" />  Portfolio 
 [Chan Meng - Portfolio](https://www.chanmeng.live/) ,
@@ -90,11 +89,8 @@
 
 Through Star Paddle Brick Breaker, I showcase my expertise in developing interactive web applications that not only engage users but also deliver superior performance and style. As a developer, I am committed to pushing the boundaries of creativity and technical excellence, ready to bring innovative solutions to your team. 🌟
 
-
-
 <p align="right">
 .. working on few more projects 😉 </p>
-
 
 ## Tech Stack 💻
 #### Languages
@@ -157,11 +153,11 @@ Through Star Paddle Brick Breaker, I showcase my expertise in developing interac
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ``` java
-if (codeWorking){
-            while (codeQuality < perfectCode){
-                codeQuality++;
-            }
-        }
+if (codeWorking) {
+    while (codeQuality < perfectCode) {
+        codeQuality++;
+    }
+}
 ```
 
 ## Current GitHub Stats 📊
@@ -172,14 +168,10 @@ if (codeWorking){
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=ChanMeng666&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-
-
-
-
-
 ### Thanks for Visiting my GitHub Profile!
 
 ---
+
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
