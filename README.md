@@ -10,11 +10,11 @@
 ## Creation 👩‍💻
 
 
-### <img src="https://media.licdn.com/dms/image/D5622AQFyU1xtJ1rYOw/feedshare-shrink_800/0/1720436325373?e=1723680000&v=beta&t=pK4mzTJI-JH9YUDusFpIGkYoqAxt01pW3QKZZIOWrBI" width="16px" />  Portfolio 
+### <img src="https://media.licdn.com/dms/image/D5622AQFyU1xtJ1rYOw/feedshare-shrink_800/0/1720436325373?e=1723680000&v=beta&t=pK4mzTJI-JH9YUDusFpIGkYoqAxt01pW3QKZZIOWrBI" width="100px" />  Portfolio 
 [Chan Meng - Portfolio](https://www.chanmeng.live/) ,
 </> and Crafted with 💛 by Chan Meng
 
-### <img src="https://corde.nz/wp-content/uploads/2021/10/core_main_type_logo-2048x399.png" width="16px" /> Smart Offline Data Collection System
+### <img src="https://corde.nz/wp-content/uploads/2021/10/core_main_type_logo-2048x399.png" style="background-color: #000000;" width="100px" /> Smart Offline Data Collection System
 [Smart Offline Data Collection System](https://github.com/ChanMeng666/CORDE-Mobile-Application) is a groundbreaking project where I spearhead the development of a mobile app for CORDE, designed to function without internet connectivity. This app captures text, photos, and GPS coordinates and syncs with the Workbench service desk logs when online. It integrates the ArcGIS map layer to display critical asset-related information, enhancing field staff efficiency and data accuracy.
 
 #### 🚀 Technical Stack:
