@@ -71,8 +71,24 @@
 
 ✌ **GitHub Repository:** [Visit Here](https://github.com/ChanMeng666/Countryside-Community-Swimming-Club)
 
+### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="100px" /> Star Paddle Brick Breaker
+[Star Paddle Brick Breaker](https://github.com/ChanMeng666/html-brick-game) is an engaging web game that transforms the retro brick breaker experience with modern twists. Hosted on GitHub Pages, this game demonstrates the fusion of classic gameplay with contemporary web technologies, offering dynamic graphics and captivating gameplay to users worldwide. 🎮
 
+#### 🚀 Technical Stack:
+- **HTML5, CSS3, JavaScript:** Crafted a seamless gaming experience that is responsive across all devices.
+- **Canvas API, WebGL:** Utilized for dynamic graphics and effects that enhance the visual appeal and performance.
 
+#### 💡 Innovative Features:
+- **Custom-Built Game Engine:** Incorporates collision effects, tail particle animations, and themed game elements to enrich the gaming experience.
+- **Interactive Design:** Features responsive controls and dynamic feedback mechanisms, engaging players in continuous action.
+
+#### 🎯 Deployment:
+- **GitHub Pages:** Ensures smooth deployment and easy maintenance, making the game accessible globally with minimal loading times.
+
+#### 🌐 See it Live:
+- **Play Now:** [Star Paddle Brick Breaker Live](https://chanmeng666.github.io/html-brick-game/)
+
+Through Star Paddle Brick Breaker, I showcase my expertise in developing interactive web applications that not only engage users but also deliver superior performance and style. As a developer, I am committed to pushing the boundaries of creativity and technical excellence, ready to bring innovative solutions to your team. 🌟
 
 
 
