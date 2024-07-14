@@ -48,6 +48,34 @@
 - **GitHub Repository:** [AgriHire Solutions GitHub](https://github.com/ChanMeng666/AgriHire-Solutions)
 
 
+### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="100px" /> Countryside Community Swimming Club Management System
+[Countryside Community Swimming Club Management System](https://github.com/ChanMeng666/Countryside-Community-Swimming-Club) revolutionized club management by enhancing operations, user engagement, and transaction security with its intuitive interface. This project was conducted in collaboration with Lincoln University (NZ) and set a new standard for community sports facilities management. 🏊
+
+#### 🚀 Technologies Used:
+- **Programming Languages & Frameworks:** Python, Flask
+- **Frontend:** HTML, CSS, Jinja, JavaScript, Bootstrap UI
+- **Database:** MySQL
+- **Deployment & Version Control:** PythonAnywhere, GitHub
+- **Project Management:** Jira
+
+#### 💡 Key Contributions:
+- **System Architecture and Development:** Designed and implemented a comprehensive SQL data model, enhancing data security and retrieval efficiency. 🗄️
+- **Front-End Design and User Experience:** Crafted a user-friendly GUI focused on aesthetic appeal and easy navigation, significantly boosting user interaction and satisfaction. 🖥️
+- **Agile Methodology:** Participated in all stages of the agile development cycle, ensuring adaptability and continuous improvement. 🔄
+- **Problem-Solving:** Addressed critical system functionality issues by refining backend processes and the UI, demonstrating strong analytical skills and technical expertise. 🔧
+
+#### 🎯 Outcomes:
+- **Enhanced Efficiency:** Automated key functions like membership management and class scheduling, reducing errors and cutting operational costs. 💼
+- **Improved User Satisfaction:** Delivered a robust, engaging platform that elevated user satisfaction across various groups. 🌟
+- **Scalable Solution:** Developed a scalable system ready for future expansions and tech integrations, paving the way for growth and innovation. 📈
+
+✌ **GitHub Repository:** [Visit Here](https://github.com/ChanMeng666/Countryside-Community-Swimming-Club)
+
+
+
+
+
+
 <p align="right">
 .. working on few more projects 😉 </p>
 
