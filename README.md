@@ -229,7 +229,7 @@ if (codeWorking) {
 }
 ```
 
-## Current GitHub Stats 📊
+## GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=ChanMeng666&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanMeng666&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
@@ -237,12 +237,17 @@ if (codeWorking) {
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=ChanMeng666&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
+## GitHub Trophies 🏆
+![Trophies](https://github-profile-trophy.vercel.app/?username=ChanMeng666&theme=dracula)
+
 ### Thanks for Visiting my GitHub Profile!
 
 ---
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=grow_out_in)
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=ChanMeng666&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![ProfileViews](https://visitcount.itsvg.in/api?id=ChanMeng666&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
