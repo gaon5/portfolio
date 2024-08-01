@@ -70,6 +70,22 @@
 #### 🎯 Play Now:
 - [Star Paddle Brick Breaker Live](https://chanmeng666.github.io/html-brick-game/)
 
+### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="50px" /> Biosecurity Guide for Agricultural Pests and Weeds
+[Biosecurity Guide for Agricultural Pests and Weeds](https://github.com/ChanMeng666/Biosecurity) is an innovative web application developed at Lincoln University (NZ) to address the biosecurity concerns regarding agricultural pests and weeds in New Zealand. This Flask-based platform provides targeted information based on user roles, enhancing the management and accessibility of crucial agricultural data. 🌾
+
+#### 🚀 Technologies Used:
+- **Python & Flask:** Powers the back-end services. 🐍
+- **HTML, CSS, JavaScript & Bootstrap:** Drives responsive front-end designs that reflect an agricultural theme. 🌍
+- **MySQL:** Manages a comprehensive database of pests, weeds, and user roles. 🗃️
+
+#### 💡 Key Features:
+- **Role-Based Access Control:** Ensures that data is accessible according to user roles like Agronomists, Staff, and Administrators. 🔐
+- **Data Integrity & Scalability:** Uses foreign keys and normalisation to ensure data consistency and future expandability. 📈
+- **Navicat for Database Management:** Simplifies data insertion and database schema management. 🛠️
+
+#### 🎯 See it Live:
+- [Visit the Biosecurity Guide](https://1160210.pythonanywhere.com/)
+
 ### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="50px" /> Selwyn Panel Beaters Online Service
 [Selwyn Panel Beaters Online Service](https://github.com/ChanMeng666/Automotive-Repair-Management-System) is a cutting-edge web application designed to streamline the management of services at Selwyn Panel Beaters. With separate interfaces for technicians and administrators, this application simplifies complex service processes, enhancing user interactions through intuitive design and efficient backend functionalities. 🛠️
 
