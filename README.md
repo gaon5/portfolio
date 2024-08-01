@@ -70,6 +70,22 @@
 #### 🎯 Play Now:
 - [Star Paddle Brick Breaker Live](https://chanmeng666.github.io/html-brick-game/)
 
+### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="50px" /> Water Quality Analysis and Prediction
+[Water Quality Analysis and Prediction](https://github.com/ChanMeng666/Water-Quality-Testing-Data-Analysis) is an insightful project that uses advanced machine learning techniques and visualization tools to analyze and predict water quality parameters such as pH, temperature, and conductivity. This initiative aims to provide crucial insights for sustainable water resource management using a comprehensive dataset available on Kaggle. 🌊
+
+#### 🚀 Technologies Used:
+- **Python:** For all back-end development and machine learning models. 🐍
+- **Pandas, Scikit-Learn, Statsmodels:** For data manipulation and regression models. 📊
+- **Matplotlib, Plotly, Seaborn:** For generating interactive and static visualizations. 📈
+
+#### 💡 Key Features:
+- **Linear Regression and OLS Models:** To predict water quality parameters. 🔍
+- **Interactive Visualisations:** Utilizing Python libraries to display complex data relationships graphically. 📉
+
+#### 🎯 See it Live:
+- [Explore the GitHub Repository](https://github.com/ChanMeng666/Water-Quality-Testing-Data-Analysis/blob/main/my_notebook.ipynb)
+
+
 ### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="50px" /> Biosecurity Guide for Agricultural Pests and Weeds
 [Biosecurity Guide for Agricultural Pests and Weeds](https://github.com/ChanMeng666/Biosecurity) is an innovative web application developed at Lincoln University (NZ) to address the biosecurity concerns regarding agricultural pests and weeds in New Zealand. This Flask-based platform provides targeted information based on user roles, enhancing the management and accessibility of crucial agricultural data. 🌾
 
