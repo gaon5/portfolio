@@ -70,6 +70,33 @@
 #### 🎯 Play Now:
 - [Star Paddle Brick Breaker Live](https://chanmeng666.github.io/html-brick-game/)
 
+### <img src="https://avatars.githubusercontent.com/u/150320866?v=4" width="50px" /> Selwyn Panel Beaters Online Service
+[Selwyn Panel Beaters Online Service](https://github.com/SelwynPanelBeaters/SPB-Online-Service) is a cutting-edge web application designed to streamline the management of services at Selwyn Panel Beaters. With separate interfaces for technicians and administrators, this application simplifies complex service processes, enhancing user interactions through intuitive design and efficient backend functionalities. 🛠️
+
+#### 🚀 Technologies Used:
+- **Python & Flask:** Drives the backend development. 🐍
+- **HTML, CSS, JavaScript & Bootstrap:** Provides a responsive and stylish front-end design. 🖥️
+- **MySQL:** Manages the database operations for robust and reliable data handling. 🗃️
+
+#### 💡 Key Features:
+- **Role-Specific Interfaces:** Customised experiences for technicians and administrators with secure access control. 👥
+- **Responsive Design:** Utilizing Bootstrap to ensure an attractive and coherent layout across various devices. 📱
+- **Advanced Data Handling:** Employs RESTful principles for effective data transactions and maintenance. 🔁
+- **Security Protocols:** Rigorous login systems to safeguard against unauthorised access and ensure data privacy. 🔐
+
+#### 🎯 See it Live:
+- [Explore Selwyn Panel Beaters Online Service](https://chanmeng.pythonanywhere.com/)
+
+### Getting Started 🌟
+To get started with the Selwyn Panel Beaters Online Service, follow these steps:
+1. **Clone the repository:** `git clone https://github.com/SelwynPanelBeaters/SPB-Online-Service`
+2. **Install dependencies:** `pip install -r requirements.txt`
+3. **Prepare the database:** Execute the provided SQL scripts to set up your database environment.
+4. **Run the application:** Execute `flask run` and navigate to the provided local server URL.
+
+
+
+
 <p align="right">
 .. working on few more projects 😉 </p>
 
