@@ -291,6 +291,7 @@ if (codeWorking) {
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ChanMeng666&theme=dracula)
 
 ### Thanks for Visiting my GitHub Profile!
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ---
 
