@@ -295,7 +295,12 @@ if (codeWorking) {
 
 ---
 
+### Random Dev Quote ✍️
+
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=grow_out_in)
+
+### Top Contributed Repo 🔝
+![](https://github-contributor-stats.vercel.app/api?username=ChanMeng666&limit=5&theme=jolly&combine_all_yearly_contributions=true)
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
