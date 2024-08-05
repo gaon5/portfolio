@@ -7,7 +7,7 @@
 <a href="https://www.chanmeng.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=docusaurus" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/chanmeng666/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <p align="center">
-<a><img src="/public/programmer.gif" width="400px" style="vertical-align:center" /></a>
+<a><img src="/public/programmer.gif" width="300px" style="vertical-align:center" /></a>
 <a>
 <details>
 <summary><code>My Promise</code></summary>
@@ -138,7 +138,7 @@ if (codeWorking) {
 <p align="right">
 .. working on few more projects 😉 </p>
 
-## Tech Stack 💻
+## <img src="/public/shakeheaddog.gif" height="25px" /> Tech Stack 💻
 
 ### Web Development
 
