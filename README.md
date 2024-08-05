@@ -138,7 +138,7 @@ if (codeWorking) {
 <p align="right">
 .. working on few more projects 😉 </p>
 
-## <img src="/public/shakeheaddog.gif" height="100px" /> Tech Stack 💻
+## <img src="/public/shakeheaddog.gif" height="80px" /> Tech Stack 💻
 
 ### Web Development
 
