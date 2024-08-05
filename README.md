@@ -286,7 +286,7 @@ if (codeWorking) {
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-## GitHub Stats 📊
+## <img src="/public/catlookingcomputer.gif" height="50px" /> GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=ChanMeng666&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanMeng666&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
