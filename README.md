@@ -292,15 +292,11 @@ if (codeWorking) {
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=ChanMeng666&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
-<img src="/public/catlookingcomputer.gif" height="300px" />
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ChanMeng666&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="Streaks" />
-  <img src="/public/catlookingcomputer.gif" height="300px" alt="Cat Looking Computer" />
+  <img src="/public/catlookingcomputer.gif" height="200px" alt="Cat Looking Computer" />
 </div>
-
 
 ## GitHub Trophies 🏆
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ChanMeng666&theme=dracula)
