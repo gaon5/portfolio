@@ -294,7 +294,7 @@ if (codeWorking) {
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=ChanMeng666&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-<img src="/public/catlookingcomputer.gif" height="100px" />
+<img src="/public/catlookingcomputer.gif" height="300px" align="right" />
 
 ## GitHub Trophies 🏆
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ChanMeng666&theme=dracula)
