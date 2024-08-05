@@ -6,6 +6,19 @@
 <p align="center">
 <a href="https://www.chanmeng.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=docusaurus" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/chanmeng666/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a>
+<details>
+<summary><code>My Promise</code></summary>
+
+``` java
+if (codeWorking) {
+    while (codeQuality < perfectCode) {
+        codeQuality++;
+    }
+}
+```
+</details>
+</a>
 
 ## Creation 👩‍💻
 
@@ -270,18 +283,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-
-<details>
-<summary><code>My Promise</code></summary>
-
-``` java
-if (codeWorking) {
-    while (codeQuality < perfectCode) {
-        codeQuality++;
-    }
-}
-```
-</details>
 
 ## GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=ChanMeng666&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
