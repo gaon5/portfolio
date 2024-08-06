@@ -166,7 +166,7 @@ if (codeWorking) {
 ![Native Base](https://img.shields.io/badge/-Native%20Base-000.svg?style=for-the-badge&logo=nativebase)
 ![React Native Elements](https://img.shields.io/badge/-React%20Native%20Elements-000.svg?style=for-the-badge&logo=react)
 ![GlueStack-UI](https://img.shields.io/badge/-GlueStack%20UI-000.svg?style=for-the-badge&logo=gluestack)
-![GSAP](https://img.shields.io/badge/-GSAP-000?style=for-the-badge&logo=greensock)
+![GSAP](https://img.shields.io/badge/-GSAP-000?style=for-the-badge&logo=greensock&logoColor=FFFFFF)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000?style=for-the-badge&logo=framer&logoColor=0055FF)
 
 #### Mobile Development
@@ -178,7 +178,7 @@ if (codeWorking) {
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-![.NET](https://img.shields.io/badge/-.NET-000?style=for-the-badge&logo=.net&logoColor=512BD4)
+![.NET](https://img.shields.io/badge/-.NET-000?style=for-the-badge&logo=.net&logoColor=6842C6)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 ![APIfox](https://img.shields.io/badge/-Apifox-000?style=for-the-badge&logo=apifox)
 
@@ -212,8 +212,8 @@ if (codeWorking) {
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite&logoColor=005870)
 
 #### Database Tools
 ![Navicat](https://img.shields.io/badge/-Navicat-000?style=for-the-badge&logo=navicat)
@@ -222,12 +222,13 @@ if (codeWorking) {
 
 #### Code Editors
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-000.svg?style=for-the-badge&logo=android-studio)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=purple)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=1EBD3A)
-![WebStorm](https://img.shields.io/badge/WebStorm-000.svg?style=for-the-badge&logo=webstorm&logoColor=00C8FF)
-![DataSpell](https://img.shields.io/badge/DataSpell-000000?style=for-the-badge&logo=jetbrains&logoColor=CB0000)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=CF5CFF)
+![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=2ECC71)
+![WebStorm](https://img.shields.io/badge/WebStorm-000.svg?style=for-the-badge&logo=webstorm&logoColor=32D1FF)
+![DataSpell](https://img.shields.io/badge/DataSpell-000000?style=for-the-badge&logo=jetbrains&logoColor=F00B0B)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000.svg?style=for-the-badge&logo=visual-studio&logoColor=007ACC)
+
 
 #### Notebook and Scripting Tools
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000.svg?style=for-the-badge&logo=jupyter)
@@ -241,7 +242,7 @@ if (codeWorking) {
 ![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-000?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900)
 
 #### CI/CD Tools
-![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci&logoColor=343434)
+![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci&logoColor=505050)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?style=for-the-badge&logo=azure-devops&logoColor=0078D4)
 
@@ -254,12 +255,15 @@ if (codeWorking) {
 ![Atlassian](https://img.shields.io/badge/-Atlassian-000?style=for-the-badge&logo=atlassian&logoColor=0052CC)
 
 #### Communication Tools
-![Zoom](https://img.shields.io/badge/-Zoom-000?style=for-the-badge&logo=zoom&logoColor=2D8CFF)
+![Zoom](https://img.shields.io/badge/-Zoom-000?style=for-the-badge&logo=zoom&logoColor=4BA3FF)
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-000?style=for-the-badge&logo=teams&logoColor=6264A7)
 
 ### Operating Systems and Platforms
 
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)
+![CentOS](https://img.shields.io/badge/-CentOS-000?style=for-the-badge&logo=centos)
+![macOS](https://img.shields.io/badge/-macOS-000?style=for-the-badge&logo=apple)
 ![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows)
 
 ### Email Services
