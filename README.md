@@ -299,7 +299,7 @@ if (codeWorking) {
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ChanMeng666&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="Streaks" />
-  <img src="/public/chan_waterfall.gif" height="200px" alt="Chan in the waterfall" />
+  <img src="/public/chan_waterfall.gif" height="400px" alt="Chan in the waterfall" />
 </div>
 
 ## GitHub Trophies 🏆
