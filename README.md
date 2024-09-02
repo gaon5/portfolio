@@ -28,7 +28,7 @@ if (codeWorking) {
 [Chan Meng - Portfolio](https://www.chanmeng.live/) ,
 </> and Crafted with 💛 by Chan Meng
 
-### <img src="/public/brands/CORDE.jpg" height="100px" alt="CORDE Brand" /> CORDE Smart Offline Data Collection System
+### <img src="/public/brands/CORDE.jpg" height="50px" alt="CORDE Brand" /> CORDE Smart Offline Data Collection System
 [Smart Offline Data Collection System](https://github.com/ChanMeng666/CORDE-Mobile-Application) is a cutting-edge mobile application developed for CORDE, designed to function seamlessly without internet connectivity. It captures text, photos, and GPS coordinates and syncs with Workbench service desk logs upon reconnecting. Featuring ArcGIS map layer integration, this system significantly enhances field staff efficiency and data accuracy. 🌐
 
 #### 🚀 Technical Stack:
@@ -41,7 +41,7 @@ if (codeWorking) {
 - **WebStorm:** Main code editor, enhancing coding efficiency. 💻
 - **Android Studio & Thunder Simulator:** For comprehensive feature development and robust testing. 🛠️
 
-### <img src="/public/brands/AgriHire_Solutions.png" height="100px" alt="AgriHire Solutions Brand" /> AgriHire Solutions Equipment and Order Management System
+### <img src="/public/brands/AgriHire_Solutions.png" height="50px" alt="AgriHire Solutions Brand" /> AgriHire Solutions Equipment and Order Management System
 [AgriHire Solutions Equipment and Order Management System](https://github.com/ChanMeng666/AgriHire-Solutions) is a revolutionary IT solution from Lincoln University (NZ) that transforms agricultural machinery rentals. This digital platform overhauls traditional processes, revolutionising order processing and customer interactions with advanced payment integrations and real-time tracking. 🚜
 
 #### 🚀 Technologies Used:
@@ -56,7 +56,7 @@ if (codeWorking) {
 #### 🎯 See it Live:
 - [View the AgriHire Solutions Live](https://agrihireaq.pythonanywhere.com/)
 
-### <img src="/public/brands/Swimming_Club.png" height="100px" alt="Swimming Club Brand" /> Countryside Community Swimming Club Management System
+### <img src="/public/brands/Swimming_Club.png" height="50px" alt="Swimming Club Brand" /> Countryside Community Swimming Club Management System
 [Countryside Community Swimming Club Management System](https://github.com/ChanMeng666/Countryside-Community-Swimming-Club) sets a new benchmark in community sports facility management, enhancing operational efficiencies and user engagement with an intuitive interface developed in collaboration with Lincoln University (NZ). 🏊‍♀
 
 #### 🚀 Technologies Used:
@@ -71,7 +71,7 @@ if (codeWorking) {
 #### 🎯 Outcomes:
 - **Enhanced Efficiency & User Satisfaction:** Automated essential functions and delivered a scalable, engaging platform. 💡
 
-### <img src="/public/brands/Brick_Breaker.png" height="100px" alt="Brick_Breaker Brand" /> Star Paddle Brick Breaker
+### <img src="/public/brands/Brick_Breaker.png" height="50px" alt="Brick_Breaker Brand" /> Star Paddle Brick Breaker
 [Star Paddle Brick Breaker](https://github.com/ChanMeng666/html-brick-game) reinvents the classic brick breaker game with a modern twist, demonstrating the fusion of traditional gameplay with cutting-edge web technologies. Hosted on GitHub Pages, this game captivates users globally with its dynamic graphics and responsive design. 🎮
 
 #### 🚀 Technical Stack:
@@ -85,7 +85,7 @@ if (codeWorking) {
 #### 🎯 Play Now:
 - [Star Paddle Brick Breaker Live](https://chanmeng666.github.io/html-brick-game/)
 
-### <img src="/public/brands/kaggle.png" height="100px" alt="kaggle Brand" /> Water Quality Analysis and Prediction
+### <img src="/public/brands/kaggle.png" height="50px" alt="kaggle Brand" /> Water Quality Analysis and Prediction
 [Water Quality Analysis and Prediction](https://github.com/ChanMeng666/Water-Quality-Testing-Data-Analysis) is an insightful project that uses advanced machine learning techniques and visualization tools to analyze and predict water quality parameters such as pH, temperature, and conductivity. This initiative aims to provide crucial insights for sustainable water resource management using a comprehensive dataset available on Kaggle. 🌊
 
 #### 🚀 Technologies Used:
@@ -101,7 +101,7 @@ if (codeWorking) {
 - [Explore the GitHub Repository](https://github.com/ChanMeng666/Water-Quality-Testing-Data-Analysis/blob/main/my_notebook.ipynb)
 
 
-### <img src="/public/brands/Biosecurity.png" height="100px" alt="Biosecurity Brand" /> Biosecurity Guide for Agricultural Pests and Weeds
+### <img src="/public/brands/Biosecurity.png" height="50px" alt="Biosecurity Brand" /> Biosecurity Guide for Agricultural Pests and Weeds
 [Biosecurity Guide for Agricultural Pests and Weeds](https://github.com/ChanMeng666/Biosecurity) is an innovative web application developed at Lincoln University (NZ) to address the biosecurity concerns regarding agricultural pests and weeds in New Zealand. This Flask-based platform provides targeted information based on user roles, enhancing the management and accessibility of crucial agricultural data. 🌾
 
 #### 🚀 Technologies Used:
@@ -117,7 +117,7 @@ if (codeWorking) {
 #### 🎯 See it Live:
 - [Visit the Biosecurity Guide](https://1160210.pythonanywhere.com/)
 
-### <img src="/public/brands/Selwyn_Panel_Beaters.png" height="100px" alt="Selwyn Panel Beaters  Brand" /> Selwyn Panel Beaters Online Service
+### <img src="/public/brands/Selwyn_Panel_Beaters.png" height="50px" alt="Selwyn Panel Beaters  Brand" /> Selwyn Panel Beaters Online Service
 [Selwyn Panel Beaters Online Service](https://github.com/ChanMeng666/Automotive-Repair-Management-System) is a cutting-edge web application designed to streamline the management of services at Selwyn Panel Beaters. With separate interfaces for technicians and administrators, this application simplifies complex service processes, enhancing user interactions through intuitive design and efficient backend functionalities. 🛠️
 
 #### 🚀 Technologies Used:
