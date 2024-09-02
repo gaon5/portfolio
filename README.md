@@ -7,7 +7,7 @@
 <a href="https://www.chanmeng.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=docusaurus" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/chanmeng666/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <p align="center">
-<a><img src="/public/programmer.gif" width="300px" style="vertical-align:center" /></a>
+<a><img src="/public/chan_snorkelling.gif" width="1000px" style="vertical-align:center" /></a>
 <a>
 <details>
 <summary><code>My Promise</code></summary>
@@ -24,7 +24,7 @@ if (codeWorking) {
 
 ## Creation 👩‍💻
 
-### <img src="https://media.licdn.com/dms/image/D5622AQFyU1xtJ1rYOw/feedshare-shrink_800/0/1720436325373?e=1723680000&v=beta&t=pK4mzTJI-JH9YUDusFpIGkYoqAxt01pW3QKZZIOWrBI" width="100px" />  Portfolio 
+### <img src="/public/chan_by_the_tree.jpg" height="200px" alt="Chan by the tree" /> Portfolio 
 [Chan Meng - Portfolio](https://www.chanmeng.live/) ,
 </> and Crafted with 💛 by Chan Meng
 
@@ -138,7 +138,7 @@ if (codeWorking) {
 <p align="right">
 .. working on few more projects 😉 </p>
 
-## <img src="/public/shakeheaddog.gif" height="80px" /> Tech Stack 💻
+## <img src="/public/giphy.gif" height="80px" /> Tech Stack 💻
 
 ### Web Development
 
@@ -299,14 +299,14 @@ if (codeWorking) {
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ChanMeng666&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="Streaks" />
-  <img src="/public/catlookingcomputer.gif" height="200px" alt="Cat Looking Computer" />
+  <img src="/public/chan_waterfall.gif" height="200px" alt="Chan in the waterfall" />
 </div>
 
 ## GitHub Trophies 🏆
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ChanMeng666&theme=dracula)
 
 ### Thanks for Visiting my GitHub Profile!
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<a><img src="/public/chan_by_the_sea.JPG" width="1000px" style="vertical-align:center" /></a>
 
 ---
 
