@@ -56,7 +56,7 @@ if (codeWorking) {
 #### 🎯 See it Live:
 - [View the AgriHire Solutions Live](https://agrihireaq.pythonanywhere.com/)
 
-### <img src="/public/brands/Swimming_Club.png" height="50px" alt="Swimming Club Brand" /> Countryside Community Swimming Club Management System
+### <img src="/public/brands/Swimming_Club.png" height="30px" alt="Swimming Club Brand" /> Countryside Community Swimming Club Management System
 [Countryside Community Swimming Club Management System](https://github.com/ChanMeng666/Countryside-Community-Swimming-Club) sets a new benchmark in community sports facility management, enhancing operational efficiencies and user engagement with an intuitive interface developed in collaboration with Lincoln University (NZ). 🏊‍♀
 
 #### 🚀 Technologies Used:
@@ -85,7 +85,7 @@ if (codeWorking) {
 #### 🎯 Play Now:
 - [Star Paddle Brick Breaker Live](https://chanmeng666.github.io/html-brick-game/)
 
-### <img src="/public/brands/kaggle.png" height="50px" alt="kaggle Brand" /> Water Quality Analysis and Prediction
+### <img src="/public/brands/kaggle.png" height="30px" alt="kaggle Brand" /> Water Quality Analysis and Prediction
 [Water Quality Analysis and Prediction](https://github.com/ChanMeng666/Water-Quality-Testing-Data-Analysis) is an insightful project that uses advanced machine learning techniques and visualization tools to analyze and predict water quality parameters such as pH, temperature, and conductivity. This initiative aims to provide crucial insights for sustainable water resource management using a comprehensive dataset available on Kaggle. 🌊
 
 #### 🚀 Technologies Used:
@@ -117,7 +117,7 @@ if (codeWorking) {
 #### 🎯 See it Live:
 - [Visit the Biosecurity Guide](https://1160210.pythonanywhere.com/)
 
-### <img src="/public/brands/Selwyn_Panel_Beaters.png" height="50px" alt="Selwyn Panel Beaters  Brand" /> Selwyn Panel Beaters Online Service
+### <img src="/public/brands/Selwyn_Panel_Beaters.png" height="30px" alt="Selwyn Panel Beaters  Brand" /> Selwyn Panel Beaters Online Service
 [Selwyn Panel Beaters Online Service](https://github.com/ChanMeng666/Automotive-Repair-Management-System) is a cutting-edge web application designed to streamline the management of services at Selwyn Panel Beaters. With separate interfaces for technicians and administrators, this application simplifies complex service processes, enhancing user interactions through intuitive design and efficient backend functionalities. 🛠️
 
 #### 🚀 Technologies Used:
