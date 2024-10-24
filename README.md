@@ -1,10 +1,17 @@
 <h1 align="center"> Hi 👋🏻, I'm Chan Meng </br> 
 </h1>
+<a><img src="/public/brands/chan_monkey_logo_black.svg" width="100px" style="vertical-align:center" /></a>
+<p align="center">
+  <img src="/public/brands/chan_monkey_logo_black.svg" width="100px" style="vertical-align:center" />
+</p>
+<a style="display: block; text-align: center;">
+  <img src="/public/brands/chan_monkey_logo_black.svg" width="100px" style="vertical-align:center" />
+</a>
 <p align="center">🌿 A minimalist</p>
 <p align="center">➖ Subtraction for life</p>
 <p align="center">➕ Addition for thought</p>
 <p align="center">
-<a href="https://www.chanmeng.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=docusaurus" style="vertical-align:center" /></a>
+<a href="https://chanmeng.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=docusaurus" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/chanmeng666/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <p align="center">
 <a><img src="/public/chan_snorkelling.gif" width="1000px" style="vertical-align:center" /></a>
@@ -138,7 +145,7 @@ if (codeWorking) {
 <p align="right">
 .. working on few more projects 😉 </p>
 
-## <img src="/public/giphy.gif" height="80px" /> Tech Stack 💻
+## <img src="/public/programmer.gif" height="200px" /> Tech Stack 💻
 
 ### Web Development
 
@@ -299,7 +306,7 @@ if (codeWorking) {
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ChanMeng666&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="Streaks" />
-  <img src="/public/chan_waterfall.gif" height="200px" alt="Chan in the waterfall" />
+  <img src="/public/catlookingcomputer.gif" height="200px" alt="a cat is looking computer" />
 </div>
 
 ## GitHub Trophies 🏆
