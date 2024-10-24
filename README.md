@@ -28,7 +28,7 @@ if (codeWorking) {
 ## Creation 👩‍💻
 
 ### <img src="/public/chan_by_the_tree.jpg" height="200px" alt="Chan by the tree" /> Portfolio 
-[Chan Meng - Portfolio](https://www.chanmeng.live/) ,
+[Chan Meng - Portfolio](https://chanmeng.live/) ,
 </> and Crafted with 💛 by Chan Meng
 
 ### <img src="/public/brands/CORDE.jpg" height="50px" alt="CORDE Brand" /> CORDE Smart Offline Data Collection System
