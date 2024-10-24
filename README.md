@@ -1,12 +1,8 @@
 <h1 align="center"> Hi 👋🏻, I'm Chan Meng </br> 
 </h1>
-<a><img src="/public/brands/chan_monkey_logo_black.svg" width="100px" style="vertical-align:center" /></a>
 <p align="center">
   <img src="/public/brands/chan_monkey_logo_black.svg" width="100px" style="vertical-align:center" />
 </p>
-<a style="display: block; text-align: center;">
-  <img src="/public/brands/chan_monkey_logo_black.svg" width="100px" style="vertical-align:center" />
-</a>
 <p align="center">🌿 A minimalist</p>
 <p align="center">➖ Subtraction for life</p>
 <p align="center">➕ Addition for thought</p>
