@@ -45,7 +45,7 @@ if (codeWorking) {
 - **Android Studio & Thunder Simulator:** For comprehensive feature development and robust testing. 🛠️
 
 
-### <img src="/public/minimalist-good-post.png" width="16px" /> Minimalist Living Platform
+### <img src="/public/brands/minimalist-good-post.png" width="16px" /> Minimalist Living Platform
 [Minimalist Living](https://minimalist-good-post.vercel.app) is a modern blog platform dedicated to sharing the philosophy and practice of minimalist living, featuring interactive 3D visualizations and comprehensive guides for those seeking a simpler, more intentional lifestyle.
 
 🎯 **Solo Project Achievements:**
