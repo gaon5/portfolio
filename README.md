@@ -44,6 +44,39 @@ if (codeWorking) {
 - **WebStorm:** Main code editor, enhancing coding efficiency. 💻
 - **Android Studio & Thunder Simulator:** For comprehensive feature development and robust testing. 🛠️
 
+
+### <img src="minimalist-good-post.png" width="16px" /> Minimalist Living Platform
+[Minimalist Living](https://minimalist-good-post.vercel.app) is a modern blog platform dedicated to sharing the philosophy and practice of minimalist living, featuring interactive 3D visualizations and comprehensive guides for those seeking a simpler, more intentional lifestyle.
+
+🎯 **Solo Project Achievements:**
+- Crafted complete brand identity including logo design inspired by Zen Buddhism
+- Designed intuitive UI/UX with clean aesthetics and responsive layouts
+- Developed the entire platform using Docusaurus 3.5.2 and React 18
+- Integrated Three.js for interactive 3D space visualization
+- Curated high-quality content on minimalist living, digital wellness, and space organization
+
+🛠️ **Technical Highlights:**
+- Custom React components with Tailwind CSS
+- Dark/Light mode theming
+- Interactive 3D models using Three.js
+- MDX support for enhanced content
+- Full-text search functionality
+- Mermaid diagram integration
+- Space Grotesk typography
+- Mobile-first responsive design
+
+✨ **Key Features:**
+- Rich content library with practical guides
+- Interactive 3D visualization of minimalist spaces
+- Seamless theme switching
+- Full-text search capability
+- Responsive design for all devices
+- Print-friendly documentation
+
+🎨 **Design Philosophy:**
+The platform's design, from the meditation-inspired logo to the clean user interface, reflects the core principles of minimalism - simplicity, intentionality, and functionality. Every element has been thoughtfully crafted to create a harmonious user experience that embodies the minimalist lifestyle.
+
+
 ### <img src="/public/brands/AgriHire_Solutions.png" height="50px" alt="AgriHire Solutions Brand" /> AgriHire Solutions Equipment and Order Management System
 [AgriHire Solutions Equipment and Order Management System](https://github.com/ChanMeng666/AgriHire-Solutions) is a revolutionary IT solution from Lincoln University (NZ) that transforms agricultural machinery rentals. This digital platform overhauls traditional processes, revolutionising order processing and customer interactions with advanced payment integrations and real-time tracking. 🚜
 
