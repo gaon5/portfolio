@@ -27,9 +27,8 @@ if (codeWorking) {
 
 ## Creation 👩‍💻
 
-### <img src="/public/chan_by_the_tree.jpg" height="200px" alt="Chan by the tree" /> Portfolio 
-[Chan Meng - Portfolio](https://chanmeng.live/) ,
-</> and Crafted with 💛 by Chan Meng
+### <img src="/public/brands/portfolio.png" width="50px" alt="Personal Portfolio Logo" /> Personal Portfolio Website 
+[3D Portfolio](https://chanmeng.live/) is an immersive web experience I independently created from scratch - including brand identity, UI/UX design, and full implementation. Built with React.js and Three.js, the site features interactive 3D elements, smooth Framer Motion animations, and responsive TailwindCSS design. From the minimalist monkey logo to custom 3D models and dynamic content sections, every detail was carefully crafted to showcase my journey as a full-stack developer.
 
 ### <img src="/public/brands/CORDE.jpg" width="50px" alt="CORDE Brand" /> CORDE Smart Offline Data Collection System
 [Smart Offline Data Collection System](https://github.com/ChanMeng666/CORDE-Mobile-Application) is a cutting-edge mobile application developed for CORDE, designed to function seamlessly without internet connectivity. It captures text, photos, and GPS coordinates and syncs with Workbench service desk logs upon reconnecting. Featuring ArcGIS map layer integration, this system significantly enhances field staff efficiency and data accuracy. 🌐
@@ -146,7 +145,7 @@ if (codeWorking) {
 
 
 <p align="right">
-.. working on few more projects 😉 </p>
+... working on more projects 😉 </p>
 
 ## <img src="/public/programmer.gif" height="200px" /> Tech Stack 💻
 
