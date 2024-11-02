@@ -30,19 +30,8 @@ if (codeWorking) {
 ### <img src="/public/brands/portfolio.png" width="50px" alt="Personal Portfolio Logo" /> Personal Portfolio Website 
 [3D Portfolio](https://chanmeng.live/) is an immersive web experience I independently created from scratch - including brand identity, UI/UX design, and full implementation. Built with React.js and Three.js, the site features interactive 3D elements, smooth Framer Motion animations, and responsive TailwindCSS design. From the minimalist monkey logo to custom 3D models and dynamic content sections, every detail was carefully crafted to showcase my journey as a full-stack developer.
 
-### <img src="/public/brands/CORDE.jpg" width="50px" alt="CORDE Brand" /> CORDE Smart Offline Data Collection System
-[Smart Offline Data Collection System](https://github.com/ChanMeng666/CORDE-Mobile-Application) is a cutting-edge mobile application developed for CORDE, designed to function seamlessly without internet connectivity. It captures text, photos, and GPS coordinates and syncs with Workbench service desk logs upon reconnecting. Featuring ArcGIS map layer integration, this system significantly enhances field staff efficiency and data accuracy. 🌐
-
-#### 🚀 Technical Stack:
-- **React Native:** For a seamless cross-platform mobile experience. 📱
-- **Android Native:** Enhancing specific Android functionalities. 🤖
-- **Native Base:** Primary UI framework for a stylish and responsive design. 🎨
-
-#### 💡 Key Features:
-- **APIfox:** Ensures reliable and stable API interactions. 🔧
-- **WebStorm:** Main code editor, enhancing coding efficiency. 💻
-- **Android Studio & Thunder Simulator:** For comprehensive feature development and robust testing. 🛠️
-
+### <img src="/public/brands/CORDE.jpg" width="50px" alt="CORDE Mobile Logo" /> CORDE Mobile - Field Operations Management Application
+[CORDE Mobile](https://corde-mobile-application-4yw7mtt.gamma.site/) is an enterprise-grade React Native application that I independently developed for [CORDE](https://corde.nz/), a professional civil maintenance company in New Zealand. As the sole front-end developer, I designed and implemented the complete solution including UI/UX, SQLite database architecture, and core functionalities. Built with React Native 0.74.2 and TypeScript, the app features an offline-first architecture with local SQLite storage, GPS integration, photo capture capabilities, and intelligent background synchronization. I crafted the user interface using Native Base components with dark/light themes, while implementing comprehensive data management systems for work orders, asset tracking, and service agreements. Beyond front-end development, I contributed to backend API integration and established frontend-backend communication protocols. The project successfully transformed CORDE's field operations by providing their maintenance teams with a reliable mobile solution for data collection and synchronization, significantly improving their operational efficiency.
 
 ### <img src="/public/brands/minimalist-good-post.png" width="50px" alt="Minimalist Living Platform Logo" /> Minimalist Living Platform
 [Minimalist Living](https://minimalist-good-post.vercel.app) is a modern minimalist lifestyle blog platform that I independently created from scratch - including brand identity, UI/UX design, full-stack development and content curation. Built with Docusaurus 3.5.2 and React 18, it features interactive 3D space visualization powered by Three.js, thoughtfully crafted content on minimalist living, and a clean user interface with dark/light mode, full-text search, and mobile-first responsive design. From the Zen-inspired meditation logo to every implementation detail, the platform embodies minimalism's core values of simplicity, intentionality and functionality.
