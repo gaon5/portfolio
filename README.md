@@ -42,20 +42,9 @@ if (codeWorking) {
 ### <img src="/public/shakeheaddog.gif" width="50px" alt="Profile README Template" /> GitHub Profile README Template
 [GitHub Profile README Template](https://github.com/ChanMeng666/ChanMeng666) is a modern GitHub profile template combining visual aesthetics with comprehensive technical documentation. Built with advanced Markdown styling, it features custom shields.io badges, dynamic GitHub statistics, and animated SVG workflows to showcase professional achievements. The template provides structured sections for project documentation, tech stack visualization spanning 80+ technologies, and interactive elements including GitHub Streaks, Trophies, and language statistics. Enhanced with responsive design and minimalist aesthetics, this template offers developers a professional, easy-to-customize foundation for creating engaging GitHub profiles.
 
-### <img src="/public/brands/AgriHire_Solutions.png" height="50px" alt="AgriHire Solutions Brand" /> AgriHire Solutions Equipment and Order Management System
-[AgriHire Solutions Equipment and Order Management System](https://github.com/ChanMeng666/AgriHire-Solutions) is a revolutionary IT solution from Lincoln University (NZ) that transforms agricultural machinery rentals. This digital platform overhauls traditional processes, revolutionising order processing and customer interactions with advanced payment integrations and real-time tracking. 🚜
 
-#### 🚀 Technologies Used:
-- **Python & Flask:** Back-end development. 🐍
-- **HTML, CSS, JavaScript & Bootstrap:** For responsive front-end design. 🌍
-- **MySQL & MaxKB API:** Database management and dynamic data handling. 🗃️
-
-#### 💡 Key Features:
-- **SendGrid & ECharts:** For automated emailing and interactive data visualisation. 📊
-- **Leaflet.js:** For enhanced map display functionalities. 🗺️
-
-#### 🎯 See it Live:
-- [View the AgriHire Solutions Live](https://agrihireaq.pythonanywhere.com/)
+### <img src="/public/brands/AgriHire_Solutions.png" height="50px" alt="AgriHire Solutions Logo" /> AgriHire Solutions - Equipment and Order Management System
+[AgriHire Solutions](https://agrihireaq.pythonanywhere.com/) is a comprehensive web-based agricultural equipment rental management system that I developed using Python Flask and MySQL. This enterprise-level application streamlines the entire rental lifecycle, from inventory management to customer bookings. Built with a robust role-based access control system, it features real-time equipment availability tracking, multi-store management, automated notifications, and comprehensive analytics dashboards powered by ECharts. The system includes both customer-facing features (equipment browsing, shopping cart, online booking) and staff portals (inventory tracking, maintenance records, financial reporting). I implemented advanced functionalities such as geolocation-based store finding using the Addy API and geopy, dynamic pricing with promotional systems, and a real-time messaging system for customer support. The frontend utilizes modern HTML5, CSS3, and JavaScript with responsive design, while the backend integrates WTForms with BCrypt for secure authentication and form handling.
 
 ### <img src="/public/brands/Swimming_Club.png" height="30px" alt="Swimming Club Brand" /> Countryside Community Swimming Club Management System
 [Countryside Community Swimming Club Management System](https://github.com/ChanMeng666/Countryside-Community-Swimming-Club) sets a new benchmark in community sports facility management, enhancing operational efficiencies and user engagement with an intuitive interface developed in collaboration with Lincoln University (NZ). 🏊‍♀
