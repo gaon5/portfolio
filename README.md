@@ -31,7 +31,7 @@ if (codeWorking) {
 [Chan Meng - Portfolio](https://chanmeng.live/) ,
 </> and Crafted with 💛 by Chan Meng
 
-### <img src="/public/brands/CORDE.jpg" height="50px" alt="CORDE Brand" /> CORDE Smart Offline Data Collection System
+### <img src="/public/brands/CORDE.jpg" width="50px" alt="CORDE Brand" /> CORDE Smart Offline Data Collection System
 [Smart Offline Data Collection System](https://github.com/ChanMeng666/CORDE-Mobile-Application) is a cutting-edge mobile application developed for CORDE, designed to function seamlessly without internet connectivity. It captures text, photos, and GPS coordinates and syncs with Workbench service desk logs upon reconnecting. Featuring ArcGIS map layer integration, this system significantly enhances field staff efficiency and data accuracy. 🌐
 
 #### 🚀 Technical Stack:
