@@ -240,12 +240,13 @@ if (codeWorking) {
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=grow_out_in)
 
 <div align="center">
-  <h3>Random Dev Quote ✍️</h3>
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=grow_out_in" 
        alt="Quote" 
        style="max-width: 100%; height: auto;"
   />
 </div>
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=grow_out_in&width=fit)
 
 ### Top Contributed Repo 🔝
 ![](https://github-contributor-stats.vercel.app/api?username=ChanMeng666&limit=5&theme=jolly&combine_all_yearly_contributions=true)
