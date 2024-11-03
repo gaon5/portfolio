@@ -65,56 +65,6 @@ if (codeWorking) {
 #### 🎯 Play Now:
 - [Star Paddle Brick Breaker Live](https://chanmeng666.github.io/html-brick-game/)
 
-### <img src="/public/brands/kaggle.png" height="30px" alt="kaggle Brand" /> Water Quality Analysis and Prediction
-[Water Quality Analysis and Prediction](https://github.com/ChanMeng666/Water-Quality-Testing-Data-Analysis) is an insightful project that uses advanced machine learning techniques and visualization tools to analyze and predict water quality parameters such as pH, temperature, and conductivity. This initiative aims to provide crucial insights for sustainable water resource management using a comprehensive dataset available on Kaggle. 🌊
-
-#### 🚀 Technologies Used:
-- **Python:** For all back-end development and machine learning models. 🐍
-- **Pandas, Scikit-Learn, Statsmodels:** For data manipulation and regression models. 📊
-- **Matplotlib, Plotly, Seaborn:** For generating interactive and static visualizations. 📈
-
-#### 💡 Key Features:
-- **Linear Regression and OLS Models:** To predict water quality parameters. 🔍
-- **Interactive Visualisations:** Utilizing Python libraries to display complex data relationships graphically. 📉
-
-#### 🎯 See it Live:
-- [Explore the GitHub Repository](https://github.com/ChanMeng666/Water-Quality-Testing-Data-Analysis/blob/main/my_notebook.ipynb)
-
-
-### <img src="/public/brands/Biosecurity.png" height="50px" alt="Biosecurity Brand" /> Biosecurity Guide for Agricultural Pests and Weeds
-[Biosecurity Guide for Agricultural Pests and Weeds](https://github.com/ChanMeng666/Biosecurity) is an innovative web application developed at Lincoln University (NZ) to address the biosecurity concerns regarding agricultural pests and weeds in New Zealand. This Flask-based platform provides targeted information based on user roles, enhancing the management and accessibility of crucial agricultural data. 🌾
-
-#### 🚀 Technologies Used:
-- **Python & Flask:** Powers the back-end services. 🐍
-- **HTML, CSS, JavaScript & Bootstrap:** Drives responsive front-end designs that reflect an agricultural theme. 🌍
-- **MySQL:** Manages a comprehensive database of pests, weeds, and user roles. 🗃️
-
-#### 💡 Key Features:
-- **Role-Based Access Control:** Ensures that data is accessible according to user roles like Agronomists, Staff, and Administrators. 🔐
-- **Data Integrity & Scalability:** Uses foreign keys and normalisation to ensure data consistency and future expandability. 📈
-- **Navicat for Database Management:** Simplifies data insertion and database schema management. 🛠️
-
-#### 🎯 See it Live:
-- [Visit the Biosecurity Guide](https://1160210.pythonanywhere.com/)
-
-### <img src="/public/brands/Selwyn_Panel_Beaters.png" height="30px" alt="Selwyn Panel Beaters  Brand" /> Selwyn Panel Beaters Online Service
-[Selwyn Panel Beaters Online Service](https://github.com/ChanMeng666/Automotive-Repair-Management-System) is a cutting-edge web application designed to streamline the management of services at Selwyn Panel Beaters. With separate interfaces for technicians and administrators, this application simplifies complex service processes, enhancing user interactions through intuitive design and efficient backend functionalities. 🛠️
-
-#### 🚀 Technologies Used:
-- **Python & Flask:** Drives the backend development. 🐍
-- **HTML, CSS, JavaScript & Bootstrap:** Provides a responsive and stylish front-end design. 🖥️
-- **MySQL:** Manages the database operations for robust and reliable data handling. 🗃️
-
-#### 💡 Key Features:
-- **Role-Specific Interfaces:** Customised experiences for technicians and administrators with secure access control. 👥
-- **Responsive Design:** Utilizing Bootstrap to ensure an attractive and coherent layout across various devices. 📱
-- **Advanced Data Handling:** Employs RESTful principles for effective data transactions and maintenance. 🔁
-- **Security Protocols:** Rigorous login systems to safeguard against unauthorised access and ensure data privacy. 🔐
-
-#### 🎯 See it Live:
-- [Explore Selwyn Panel Beaters Online Service](https://chanmeng.pythonanywhere.com/)
-
-
 <p align="right">
 ... working on more projects 😉 </p>
 
