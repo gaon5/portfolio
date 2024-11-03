@@ -51,19 +51,8 @@ if (codeWorking) {
 ### <img src="/public/brands/kaggle.png" width="50px" alt="Kaggle Logo" /> MNIST Neural Network Analysis Project
 [The MNIST Neural Network Analysis Project](https://github.com/ChanMeng666/MNIST-Handwritten-Digit-Recognition-Project/blob/main/hand-written-digit-recognition_final.ipynb) is a comprehensive machine learning implementation comparing three neural network architectures for handwritten digit recognition: a basic MLP (99.05% accuracy), a resource-efficient optimized model (97.86% accuracy), and a deep CNN (99.71% accuracy). Using TensorFlow/Keras and scikit-learn, I developed robust data processing pipelines with feature selection and augmentation techniques. Key achievements include implementing an advanced feature importance visualization system and creating a thorough model interpretability framework through occlusion sensitivity analysis. The optimized model demonstrates significant efficiency, requiring only 84,618 parameters while maintaining high accuracy, with all results thoroughly documented through Matplotlib and Seaborn visualizations.
 
-### <img src="/public/brands/Brick_Breaker.png" height="50px" alt="Brick_Breaker Brand" /> Star Paddle Brick Breaker
-[Star Paddle Brick Breaker](https://github.com/ChanMeng666/html-brick-game) reinvents the classic brick breaker game with a modern twist, demonstrating the fusion of traditional gameplay with cutting-edge web technologies. Hosted on GitHub Pages, this game captivates users globally with its dynamic graphics and responsive design. 🎮
-
-#### 🚀 Technical Stack:
-- **HTML5, CSS3 & JavaScript:** Ensures a seamless gaming experience across all devices. 🌍
-- **Canvas API & WebGL:** Utilized for dynamic graphics and animations. 🎨
-
-#### 💡 Innovative Features:
-- **Custom-Built Game Engine:** Features collision effects and interactive design elements. 🔧
-- **GitHub Pages:** Facilitates smooth deployment and maintenance. 🚀
-
-#### 🎯 Play Now:
-- [Star Paddle Brick Breaker Live](https://chanmeng666.github.io/html-brick-game/)
+### <img src="/public/brands/Brick_Breaker.png" width="50px" alt="Brick Breaker Logo" /> Celestial Brick Breaker
+[Celestial Brick Breaker](https://chanmeng666.github.io/html-brick-game/) is a modern take on the classic brick breaker game that I built with vanilla JavaScript and HTML5 Canvas. This web game features a unique celestial theme where players control a deer-shaped paddle to bounce a shooting star through colorful brick formations. The game implements engaging visual elements including particle effects for meteor trails, SVG graphics for smooth scaling, and an animated gradient background. Built with pure JavaScript and CSS3, it showcases modern web development techniques through its responsive design, dynamic collision system, and interactive game states, delivering a fresh arcade experience that blends classic gameplay with contemporary aesthetics.
 
 <p align="right">
 ... working on more projects 😉 </p>
