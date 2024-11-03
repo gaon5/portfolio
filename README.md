@@ -236,9 +236,6 @@ if (codeWorking) {
 ---
 
 ### Random Dev Quote ✍️
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=grow_out_in)
-
 <div align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=grow_out_in" 
        alt="Quote" 
@@ -246,7 +243,6 @@ if (codeWorking) {
   />
 </div>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=grow_out_in&width=fit)
 
 ### Top Contributed Repo 🔝
 ![](https://github-contributor-stats.vercel.app/api?username=ChanMeng666&limit=5&theme=jolly&combine_all_yearly_contributions=true)
