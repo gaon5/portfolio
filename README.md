@@ -48,7 +48,7 @@ if (codeWorking) {
 ### <img src="/public/brands/Swimming_Club.png" width="50px" alt="Swimming Club Logo" /> Swimming Club Management System (SCMS)
 [The Swimming Club Management System](https://countryside-community-sw-6wqr4e1.gamma.site/) is a comprehensive web application I developed using Python Flask and MySQL to streamline community swimming club operations. This full-stack solution implements role-based access control, enabling members to manage subscriptions and book classes, instructors to handle schedules and track attendance, and managers to oversee facility allocation and generate reports. Key technical features include secure authentication with Flask-Hashing, dynamic class scheduling with conflict prevention, automated membership management, and real-time booking updates. The frontend employs responsive Bootstrap design with custom JavaScript, while the backend follows MVC architecture with robust error handling. Notable achievements include implementing an intelligent time-slot management system, flexible payment processing for multiple membership types, and analytics dashboards for monitoring class performance and attendance patterns.
 
-### <span style="font-size: 50px">🔢</span> MNIST Neural Network Analysis Project
+### <img src="/public/brands/kaggle.png" width="50px" alt="Kaggle Logo" /> MNIST Neural Network Analysis Project
 [The MNIST Neural Network Analysis Project](https://github.com/ChanMeng666/MNIST-Handwritten-Digit-Recognition-Project/blob/main/hand-written-digit-recognition_final.ipynb) is a comprehensive machine learning implementation comparing three neural network architectures for handwritten digit recognition: a basic MLP (99.05% accuracy), a resource-efficient optimized model (97.86% accuracy), and a deep CNN (99.71% accuracy). Using TensorFlow/Keras and scikit-learn, I developed robust data processing pipelines with feature selection and augmentation techniques. Key achievements include implementing an advanced feature importance visualization system and creating a thorough model interpretability framework through occlusion sensitivity analysis. The optimized model demonstrates significant efficiency, requiring only 84,618 parameters while maintaining high accuracy, with all results thoroughly documented through Matplotlib and Seaborn visualizations.
 
 ### <img src="/public/brands/Brick_Breaker.png" height="50px" alt="Brick_Breaker Brand" /> Star Paddle Brick Breaker
@@ -77,14 +77,12 @@ if (codeWorking) {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=007396)
-![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 
 #### Frontend Libraries/Frameworks
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js)
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?style=for-the-badge&logo=jquery&logoColor=0769AD)
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
@@ -92,10 +90,8 @@ if (codeWorking) {
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Layui](https://img.shields.io/badge/-Layui-000?style=for-the-badge&logo=layui&logoColor=029688)
-![Material UI](https://img.shields.io/badge/-Material%20UI-000?style=for-the-badge&logo=material-ui&logoColor=0081CB)
 ![Native Base](https://img.shields.io/badge/-Native%20Base-000.svg?style=for-the-badge&logo=nativebase)
 ![React Native Elements](https://img.shields.io/badge/-React%20Native%20Elements-000.svg?style=for-the-badge&logo=react)
-![GlueStack-UI](https://img.shields.io/badge/-GlueStack%20UI-000.svg?style=for-the-badge&logo=gluestack)
 ![GSAP](https://img.shields.io/badge/-GSAP-000?style=for-the-badge&logo=greensock&logoColor=FFFFFF)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000?style=for-the-badge&logo=framer&logoColor=0055FF)
 
@@ -108,7 +104,6 @@ if (codeWorking) {
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-![.NET](https://img.shields.io/badge/-.NET-000?style=for-the-badge&logo=.net&logoColor=6842C6)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 ![APIfox](https://img.shields.io/badge/-Apifox-000?style=for-the-badge&logo=apifox)
 
@@ -137,6 +132,7 @@ if (codeWorking) {
 
 #### Data Visualization
 ![ECharts](https://img.shields.io/badge/-ECharts-000?style=for-the-badge&logo=apacheecharts&logoColor=aa344d)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000?style=for-the-badge&logo=chart.js&logoColor=FF6384)
 
 ### Database Management
 
@@ -144,6 +140,7 @@ if (codeWorking) {
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite&logoColor=005870)
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 #### Database Tools
 ![Navicat](https://img.shields.io/badge/-Navicat-000?style=for-the-badge&logo=navicat)
@@ -158,7 +155,6 @@ if (codeWorking) {
 ![DataSpell](https://img.shields.io/badge/DataSpell-000000?style=for-the-badge&logo=jetbrains&logoColor=F00B0B)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000.svg?style=for-the-badge&logo=visual-studio&logoColor=007ACC)
-
 
 #### Notebook and Scripting Tools
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000.svg?style=for-the-badge&logo=jupyter)
@@ -192,7 +188,6 @@ if (codeWorking) {
 
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)
-![CentOS](https://img.shields.io/badge/-CentOS-000?style=for-the-badge&logo=centos)
 ![macOS](https://img.shields.io/badge/-macOS-000?style=for-the-badge&logo=apple)
 ![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows)
 
@@ -243,6 +238,14 @@ if (codeWorking) {
 ### Random Dev Quote ✍️
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=grow_out_in)
+
+<div align="center">
+  <h3>Random Dev Quote ✍️</h3>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=grow_out_in" 
+       alt="Quote" 
+       style="max-width: 100%; height: auto;"
+  />
+</div>
 
 ### Top Contributed Repo 🔝
 ![](https://github-contributor-stats.vercel.app/api?username=ChanMeng666&limit=5&theme=jolly&combine_all_yearly_contributions=true)
