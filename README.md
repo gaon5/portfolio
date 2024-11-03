@@ -42,24 +42,11 @@ if (codeWorking) {
 ### <img src="/public/shakeheaddog.gif" width="50px" alt="Profile README Template" /> GitHub Profile README Template
 [GitHub Profile README Template](https://github.com/ChanMeng666/ChanMeng666) is a modern GitHub profile template combining visual aesthetics with comprehensive technical documentation. Built with advanced Markdown styling, it features custom shields.io badges, dynamic GitHub statistics, and animated SVG workflows to showcase professional achievements. The template provides structured sections for project documentation, tech stack visualization spanning 80+ technologies, and interactive elements including GitHub Streaks, Trophies, and language statistics. Enhanced with responsive design and minimalist aesthetics, this template offers developers a professional, easy-to-customize foundation for creating engaging GitHub profiles.
 
-
 ### <img src="/public/brands/AgriHire_Solutions.png" width="50px" alt="AgriHire Solutions Logo" /> AgriHire Solutions - Equipment and Order Management System
 [AgriHire Solutions](https://agrihireaq.pythonanywhere.com/) is a comprehensive web-based agricultural equipment rental management system that I developed using Python Flask and MySQL. This enterprise-level application streamlines the entire rental lifecycle, from inventory management to customer bookings. Built with a robust role-based access control system, it features real-time equipment availability tracking, multi-store management, automated notifications, and comprehensive analytics dashboards powered by ECharts. The system includes both customer-facing features (equipment browsing, shopping cart, online booking) and staff portals (inventory tracking, maintenance records, financial reporting). I implemented advanced functionalities such as geolocation-based store finding using the Addy API and geopy, dynamic pricing with promotional systems, and a real-time messaging system for customer support. The frontend utilizes modern HTML5, CSS3, and JavaScript with responsive design, while the backend integrates WTForms with BCrypt for secure authentication and form handling.
 
-### <img src="/public/brands/Swimming_Club.png" height="30px" alt="Swimming Club Brand" /> Countryside Community Swimming Club Management System
-[Countryside Community Swimming Club Management System](https://github.com/ChanMeng666/Countryside-Community-Swimming-Club) sets a new benchmark in community sports facility management, enhancing operational efficiencies and user engagement with an intuitive interface developed in collaboration with Lincoln University (NZ). 🏊‍♀
-
-#### 🚀 Technologies Used:
-- **Python & Flask:** For robust back-end development. 🐍
-- **HTML, CSS, Jinja & JavaScript:** Crafting a user-friendly front-end. 🖥️
-- **MySQL:** Secure and efficient data handling. 🗃️
-
-#### 💡 Key Contributions:
-- **System Architecture:** Designed a comprehensive SQL data model. 🛠️
-- **Agile Methodology:** Ensured adaptability and continuous improvement through all development stages. 🔄
-
-#### 🎯 Outcomes:
-- **Enhanced Efficiency & User Satisfaction:** Automated essential functions and delivered a scalable, engaging platform. 💡
+### <img src="/public/brands/Swimming_Club.png" width="50px" alt="Swimming Club Logo" /> Swimming Club Management System (SCMS)
+The [Swimming Club Management System](https://countryside-community-sw-6wqr4e1.gamma.site/) is a comprehensive web application I developed using Python Flask and MySQL to streamline community swimming club operations. This full-stack solution implements role-based access control, enabling members to manage subscriptions and book classes, instructors to handle schedules and track attendance, and managers to oversee facility allocation and generate reports. Key technical features include secure authentication with Flask-Hashing, dynamic class scheduling with conflict prevention, automated membership management, and real-time booking updates. The frontend employs responsive Bootstrap design with custom JavaScript, while the backend follows MVC architecture with robust error handling. Notable achievements include implementing an intelligent time-slot management system, flexible payment processing for multiple membership types, and analytics dashboards for monitoring class performance and attendance patterns.
 
 ### <img src="/public/brands/Brick_Breaker.png" height="50px" alt="Brick_Breaker Brand" /> Star Paddle Brick Breaker
 [Star Paddle Brick Breaker](https://github.com/ChanMeng666/html-brick-game) reinvents the classic brick breaker game with a modern twist, demonstrating the fusion of traditional gameplay with cutting-edge web technologies. Hosted on GitHub Pages, this game captivates users globally with its dynamic graphics and responsive design. 🎮
