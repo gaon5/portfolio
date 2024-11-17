@@ -51,6 +51,8 @@ if (codeWorking) {
 ### <img src="/public/brands/chinese-redefine.svg" width="50px" alt="Chinese Redefine Logo" /> Chinese Redefine - Modern Chinese Word Interpreter <a href="https://github.com/ChanMeng666/chinese-redefine" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Repository Link" width="20px"/></a>
 [Chinese Redefine](https://chinese-redefine.vercel.app/) is a modern web application that redefines Chinese words from contemporary perspectives, powered by Gemini AI. Built with Next.js and Tailwind CSS, it features elegant Framer Motion animations and exportable SVG cards, making traditional language learning more engaging and relevant to modern contexts.
 
+👉 Experience the [English Redefine](https://english-redefine.vercel.app/) 👈
+
 ### <img src="/public/shakeheaddog.gif" width="50px" alt="Profile README Template" /> GitHub Profile README Template <a href="https://github.com/ChanMeng666/ChanMeng666" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Repository Link" width="20px"/></a>
 [GitHub Profile README Template](https://github.com/ChanMeng666/ChanMeng666) combines visual aesthetics with technical documentation. Features custom shields.io badges, GitHub statistics, and animated SVG workflows for showcasing developer achievements.
 
