@@ -1,6 +1,6 @@
 <div align="center">
   <img src="/public/brands/chan_monkey_logo_black.svg" width="100" height="100" alt="Chan Meng Logo">
-  
+
   # Hi there, I'm Chan Meng 👋🏻
 
   <p>
@@ -327,11 +327,11 @@ while (isAwake) {
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChanMeng666/ChanMeng666/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChanMeng666/ChanMeng666/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChanMeng666/ChanMeng666/output/github-contribution-grid-snake.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChanMeng666/ChanMeng666/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChanMeng666/ChanMeng666/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChanMeng666/ChanMeng666/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <div align="center">
