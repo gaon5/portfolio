@@ -87,6 +87,8 @@ if (codeWorking) {
   </a>
 </div>
 
+---
+
 ## <img src="/public/programmer.gif" height="200px" /> Tech Stack 💻
 
 ### Web Development
