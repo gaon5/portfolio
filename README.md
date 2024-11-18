@@ -86,6 +86,16 @@ if (codeWorking) {
 
 ---
 
+## My Resume 📄
+
+<div align="center">
+  <a href="/public/ChanMeng_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-PDF-red" alt="Download CV" />
+  </a>
+</div>
+
+---
+
 ## <img src="/public/programmer.gif" height="200px" /> Tech Stack 💻
 
 ### Web Development
