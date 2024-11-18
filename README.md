@@ -212,3 +212,29 @@ while (isAwake) {
     <img src="https://img.shields.io/badge/View%20All-My%20Repositories-blue?style=for-the-badge&logo=github"/>
   </a>
 </div>
+
+<h2 align="center">☕ Support My Work</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="30%">
+        <img src="/public/bmc_qr.png" width="150px" alt="Buy Me a Coffee QR Code"/>
+      </td>
+      <td width="70%">
+        <p>Your support helps me continue creating better solutions and open-source projects. If you find my work valuable, consider buying me a coffee!</p>
+        <a href="https://www.buymeacoffee.com/chanmeng66u" target="_blank">
+          <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">📄 My Resume</h2>
+
+<div align="center">
+  <a href="/public/ChanMeng_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-📄_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
+  </a>
+</div>
