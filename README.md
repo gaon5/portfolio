@@ -75,7 +75,7 @@ if (codeWorking) {
 ## Support My Work ☕
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 2rem; padding: 2rem;">
-  <img src="/public/bmc_qr.png" width="200px" alt="Buy Me a Coffee QR Code" style="object-fit: contain;"/>
+  <img src="/public/bmc_qr.png" width="100px" alt="Buy Me a Coffee QR Code" style="object-fit: contain;"/>
   <em style="max-width: 400px; line-height: 1.6;">If you find value in my work, consider buying me a coffee! Your support helps me continue creating better solutions for you.</em>
 </div>
 
