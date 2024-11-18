@@ -7,6 +7,7 @@
 <p align="center">➖ Subtraction for life</p>
 <p align="center">➕ Addition for thought</p>
 <p align="center">
+<a href="https://buymeacoffee.com/chanmeng66u" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 <a href="https://chanmeng.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/chanmeng666/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <p align="center">
@@ -70,6 +71,20 @@ if (codeWorking) {
 
 <p align="right">
 ... working on more projects 😉 </p>
+
+---
+
+## Support My Work ☕
+
+<div align="center">
+  <img src="/public/bmc_qr.png" width="200px" alt="Buy Me a Coffee QR Code" />
+</div>
+
+<div align="center">
+  <em>If you find value in my work, consider buying me a coffee! Your support helps me continue creating better solutions for you.</em>
+</div>
+
+---
 
 ## <img src="/public/programmer.gif" height="200px" /> Tech Stack 💻
 
