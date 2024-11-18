@@ -72,29 +72,20 @@ if (codeWorking) {
 <p align="right">
 ... working on more projects 😉 </p>
 
----
-
 ## Support My Work ☕
 
-<div align="center">
-  <img src="/public/bmc_qr.png" width="200px" alt="Buy Me a Coffee QR Code" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 2rem; padding: 2rem;">
+  <img src="/public/bmc_qr.png" width="200px" alt="Buy Me a Coffee QR Code" style="object-fit: contain;"/>
+  <em style="max-width: 400px; line-height: 1.6;">If you find value in my work, consider buying me a coffee! Your support helps me continue creating better solutions for you.</em>
 </div>
-
-<div align="center">
-  <em>If you find value in my work, consider buying me a coffee! Your support helps me continue creating better solutions for you.</em>
-</div>
-
----
 
 ## My Resume 📄
 
 <div align="center">
   <a href="/public/ChanMeng_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV-PDF-red" alt="Download CV" />
+    <img src="https://img.shields.io/badge/Download_CV-📄_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
   </a>
 </div>
-
----
 
 ## <img src="/public/programmer.gif" height="200px" /> Tech Stack 💻
 
