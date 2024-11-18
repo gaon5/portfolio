@@ -33,7 +33,7 @@ while (isAwake) {
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">Personal Portfolio</h3>
       <div align="center">  
         <a href="https://chanmeng.live/" target="_blank"><img src="/public/brands/portfolio.png" width="100%" alt="Portfolio Website"></a>
@@ -42,15 +42,15 @@ while (isAwake) {
         <p>
           <a href="https://github.com/ChanMeng666/3D-Portfolio" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>  
+          </a>
           <a href="https://chanmeng.live/" target="_blank">
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>React.js, Three.js, Framer Motion, TailwindCSS</strong> - An immersive 3D portfolio showcasing full-stack development skills with interactive elements and responsive design.</p>
+        <p><strong>React.js, Three.js, Framer Motion, TailwindCSS</strong> - Immersive 3D portfolio with interactive elements.</p>
       </div>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">CORDE Mobile</h3>
       <div align="center">  
         <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.jpg" width="100%" alt="CORDE Mobile App"/></a>
@@ -59,19 +59,16 @@ while (isAwake) {
         <p>
           <a href="https://github.com/ChanMeng666/CORDE-Mobile-Application" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>  
+          </a>
           <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank">
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>React Native, TypeScript, SQLite</strong> - An enterprise-grade field operations management app with offline-first architecture and comprehensive data management systems.</p>
+        <p><strong>React Native, TypeScript, SQLite</strong> - Enterprise-grade field operations management app.</p>
       </div>
     </td>
-  </tr>
-  
-  <tr>
-    <td width="50%">
-      <h3 align="center">Minimalist Living Platform</h3>
+    <td width="33%">
+      <h3 align="center">Minimalist Living</h3>
       <div align="center">  
         <a href="https://minimalist-good-post.vercel.app" target="_blank"><img src="/public/brands/minimalist-good-post.png" width="100%" alt="Minimalist Living Platform"/></a>
         <br>
@@ -79,15 +76,18 @@ while (isAwake) {
         <p>
           <a href="https://github.com/ChanMeng666/minimalist-good-post" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>  
+          </a>
           <a href="https://minimalist-good-post.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Docusaurus, React, Three.js</strong> - A lifestyle blog platform with space visualization, full-text search, and responsive design with dark/light modes.</p>
+        <p><strong>Docusaurus, React, Three.js</strong> - Lifestyle blog with space visualization.</p>
       </div>
     </td>
-    <td width="50%">
+  </tr>
+  
+  <tr>
+    <td width="33%">
       <h3 align="center">Forward with Her</h3>
       <div align="center">  
         <a href="https://forward-with-her.vercel.app/" target="_blank"><img src="/public/brands/forward-with-her.jpg" width="100%" alt="Forward with Her Website"/></a>
@@ -96,12 +96,46 @@ while (isAwake) {
         <p>
           <a href="https://github.com/ChanMeng666/3d-model-viewer" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>  
+          </a>
           <a href="https://forward-with-her.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Next.js, Three.js, TypeScript, TailwindCSS</strong> - An immersive bilingual website for tech women mentorship, featuring a responsive Spline 3D model.</p>
+        <p><strong>Next.js, Three.js, TypeScript, TailwindCSS</strong> - Bilingual tech women mentorship site.</p>
+      </div>
+    </td>
+    <td width="33%">
+      <h3 align="center">FriendScope</h3>
+      <div align="center">  
+        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.png" width="100%" alt="FriendScope Website"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/friendscope" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://friendscope.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, TypeScript</strong> - Scientific friendship assessment tool.</p>
+      </div>
+    </td>
+    <td width="33%">
+      <h3 align="center">Reincarnation Journey</h3>
+      <div align="center">  
+        <a href="https://journey-of-reincarnation2.vercel.app" target="_blank"><img src="/public/brands/journey-of-reincarnation2.png" width="100%" alt="Journey of Reincarnation Website"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/journey-of-reincarnation2" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://journey-of-reincarnation2.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Chart.js, Framer Motion</strong> - Interactive reincarnation simulation.</p>
       </div>
     </td>
   </tr>
