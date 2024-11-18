@@ -361,7 +361,3 @@ while (isAwake) {
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ChanMeng666/ChanMeng666/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation">
-</div>
