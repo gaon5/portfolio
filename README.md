@@ -341,7 +341,7 @@ while (isAwake) {
 <h2 align="center">💡 Random Dev Quote</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&animation=grow_out_in" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
 </div>
 
 <h2 align="center">👩‍💻 Chan Meng</h2>
