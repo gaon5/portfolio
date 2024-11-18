@@ -234,7 +234,7 @@ if (codeWorking) {
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ChanMeng666&theme=dracula)
 
 ### Thanks for Visiting my GitHub Profile!
-<a><img src="/public/chan_by_the_sea.jpg" width="1000px" style="vertical-align:center" /></a>
+<a><img src="/public/chan_by_the_sea.jpg" width="500px" style="vertical-align:center" /></a>
 
 ---
 
