@@ -33,10 +33,10 @@ while (isAwake) {
 
 <table>
   <tr>
-    <td width="20%" valign="top">
-      <h3 align="center" style="margin-top:0;">Personal Portfolio</h3>
+    <td width="20%">
+      <h3 align="center">Personal Portfolio</h3>
       <div align="center">  
-        <a href="https://chanmeng.live/" target="_blank"><img src="/public/brands/portfolio.png" width="100%" alt="Portfolio Website" style="height: 120px; object-fit: cover;"></a>
+        <a href="https://chanmeng.live/" target="_blank"><img src="/public/brands/portfolio.png" width="100%" alt="Portfolio Website"></a>
         <br>
         <br>
         <p>
@@ -47,13 +47,13 @@ while (isAwake) {
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p style="margin: 0; padding: 0 10px;"><strong>React, Three.js</strong></p>
+        <p><strong>React, Three.js</strong></p>
       </div>
     </td>
-    <td width="20%" valign="top">
-      <h3 align="center" style="margin-top:0;">CORDE Mobile</h3>
+    <td width="20%">
+      <h3 align="center">CORDE Mobile</h3>
       <div align="center">  
-        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.jpg" width="100%" alt="CORDE Mobile App" style="height: 120px; object-fit: cover;"/></a>
+        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.jpg" width="100%" alt="CORDE Mobile App"/></a>
         <br>
         <br>
         <p>
@@ -64,7 +64,7 @@ while (isAwake) {
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p style="margin: 0; padding: 0 10px;"><strong>React Native, SQLite</strong></p>
+        <p><strong>React Native, SQLite</strong></p>
       </div>
     </td>
     <td width="20%">
@@ -119,7 +119,7 @@ while (isAwake) {
       </div>
     </td>
   </tr>
-
+  
   <tr>
     <td width="20%">
       <h3 align="center">Reincarnation Journey</h3>
