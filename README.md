@@ -1,37 +1,31 @@
 <div align="center">
+  <img src="/public/brands/chan_monkey_logo_black.svg" width="100" height="100" alt="Chan Meng Logo">
   
-  # こんにちは 👋🏻 I'm Chan Meng
-  
-  <img src="/public/brands/chan_monkey_logo_black.svg" width="120" alt="Personal Logo"/>
-  
-  <a href="https://buymeacoffee.com/chanmeng66u">
-    <img src="https://img.shields.io/badge/Support_My_Work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://chanmeng.live">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chanmeng666">
-    <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" alt="LinkedIn"/>
-  </a>
+  # Hi there, I'm Chan Meng 👋🏻
 
-  ### `{ minimalist: true, passion: "infinite" }`
-  
-  > 🌿 Embracing minimalism in code and life  
-  > ➖ Subtracting complexity, adding clarity  
-  > ➕ Building thoughtful solutions that matter
+  <p>
+    <em>🌿 A minimalist</em> <br>
+    <em>➖ Subtraction for life</em> <br>
+    <em>➕ Addition for thought</em>
+  </p>
 
-  <img src="/public/chan_snorkelling.gif" width="100%" alt="Adventure Time"/>
-  
-  <details align="left">
-    <summary><code>$ whoami</code></summary>
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chanmeng66u)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://chanmeng.live/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanmeng666/)
 
-```js
-const developer = {
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    focus: ["Full-Stack Development", "Mobile Apps", "UI/UX"],
-    challenge: "Building elegant solutions to complex problems",
-    currentlyLearning: "Always something new! 🚀"
-};
-```
-  </details>
+  <img src="/public/chan_snorkelling.gif" width="100%" alt="Chan Meng Snorkelling">
 </div>
+
+<details>
+<summary><h2>🤞 My Promise</h2></summary>
+
+```java
+while (isAwake) {
+    code();
+    eat();
+    sleep();
+    repeat();
+}
+```
+</details>
+```
