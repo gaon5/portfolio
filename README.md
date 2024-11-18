@@ -33,7 +33,7 @@ while (isAwake) {
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="20%">
       <h3 align="center">Personal Portfolio</h3>
       <div align="center">  
         <a href="https://chanmeng.live/" target="_blank"><img src="/public/brands/portfolio.png" width="100%" alt="Portfolio Website"></a>
@@ -47,10 +47,10 @@ while (isAwake) {
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>React.js, Three.js, Framer Motion, TailwindCSS</strong> - Immersive 3D portfolio with interactive elements.</p>
+        <p><strong>React, Three.js</strong></p>
       </div>
     </td>
-    <td width="33%">
+    <td width="20%">
       <h3 align="center">CORDE Mobile</h3>
       <div align="center">  
         <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.jpg" width="100%" alt="CORDE Mobile App"/></a>
@@ -64,10 +64,10 @@ while (isAwake) {
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>React Native, TypeScript, SQLite</strong> - Enterprise-grade field operations management app.</p>
+        <p><strong>React Native, SQLite</strong></p>
       </div>
     </td>
-    <td width="33%">
+    <td width="20%">
       <h3 align="center">Minimalist Living</h3>
       <div align="center">  
         <a href="https://minimalist-good-post.vercel.app" target="_blank"><img src="/public/brands/minimalist-good-post.png" width="100%" alt="Minimalist Living Platform"/></a>
@@ -81,13 +81,10 @@ while (isAwake) {
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Docusaurus, React, Three.js</strong> - Lifestyle blog with space visualization.</p>
+        <p><strong>Docusaurus, React</strong></p>
       </div>
     </td>
-  </tr>
-  
-  <tr>
-    <td width="33%">
+    <td width="20%">
       <h3 align="center">Forward with Her</h3>
       <div align="center">  
         <a href="https://forward-with-her.vercel.app/" target="_blank"><img src="/public/brands/forward-with-her.jpg" width="100%" alt="Forward with Her Website"/></a>
@@ -101,10 +98,10 @@ while (isAwake) {
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Next.js, Three.js, TypeScript, TailwindCSS</strong> - Bilingual tech women mentorship site.</p>
+        <p><strong>Next.js, Three.js</strong></p>
       </div>
     </td>
-    <td width="33%">
+    <td width="20%">
       <h3 align="center">FriendScope</h3>
       <div align="center">  
         <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.png" width="100%" alt="FriendScope Website"/></a>
@@ -118,10 +115,13 @@ while (isAwake) {
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Next.js, TypeScript</strong> - Scientific friendship assessment tool.</p>
+        <p><strong>Next.js, TypeScript</strong></p>
       </div>
     </td>
-    <td width="33%">
+  </tr>
+  
+  <tr>
+    <td width="20%">
       <h3 align="center">Reincarnation Journey</h3>
       <div align="center">  
         <a href="https://journey-of-reincarnation2.vercel.app" target="_blank"><img src="/public/brands/journey-of-reincarnation2.png" width="100%" alt="Journey of Reincarnation Website"/></a>
@@ -135,7 +135,72 @@ while (isAwake) {
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Next.js, Chart.js, Framer Motion</strong> - Interactive reincarnation simulation.</p>
+        <p><strong>Next.js, Chart.js</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Library Management</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/library-management-system" target="_blank"><img src="/public/brands/library-management-system.svg" width="100%" alt="Library Management System"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/library-management-system" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Supabase</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Chinese Redefine</h3>
+      <div align="center">  
+        <a href="https://chinese-redefine.vercel.app/" target="_blank"><img src="/public/brands/chinese-redefine.svg" width="100%" alt="Chinese Redefine"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/chinese-redefine" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://chinese-redefine.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Tailwind</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">AgriHire Solutions</h3>
+      <div align="center">  
+        <a href="https://agrihireaq.pythonanywhere.com/" target="_blank"><img src="/public/brands/AgriHire_Solutions.png" width="100%" alt="AgriHire Solutions"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/AgriHire-Solutions" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://agrihireaq.pythonanywhere.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Flask, ECharts</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Swimming Club</h3>
+      <div align="center">  
+        <a href="https://countryside-community-sw-6wqr4e1.gamma.site/" target="_blank"><img src="/public/brands/Swimming_Club.png" width="100%" alt="Swimming Club Management System"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/Countryside-Community-Swimming-Club" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://countryside-community-sw-6wqr4e1.gamma.site/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Flask, Bootstrap</strong></p>
       </div>
     </td>
   </tr>
