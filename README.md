@@ -1,10 +1,10 @@
 <div align="center">
-
+  
   # こんにちは 👋🏻 I'm Chan Meng
-
+  
   <img src="/public/brands/chan_monkey_logo_black.svg" width="120" alt="Personal Logo"/>
-
-  <div>
+  
+  <div style="display: flex; gap: 8px; justify-content: center;">
     <a href="https://buymeacoffee.com/chanmeng66u">
       <img src="https://img.shields.io/badge/Support_My_Work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
     </a>
@@ -17,24 +17,22 @@
   </div>
 
   ### `{ minimalist: true, passion: "infinite" }`
-
+  
   > 🌿 Embracing minimalism in code and life  
   > ➖ Subtracting complexity, adding clarity  
   > ➕ Building thoughtful solutions that matter
 
   <img src="/public/chan_snorkelling.gif" width="100%" alt="Adventure Time"/>
-
+  
   <details>
     <summary><code>$ whoami</code></summary>
-    <br>
-
-    ```javascript
+    
     const developer = {
       code: ["JavaScript", "TypeScript", "Python", "Java"],
       focus: ["Full-Stack Development", "Mobile Apps", "UI/UX"],
       challenge: "Building elegant solutions to complex problems",
       currentlyLearning: "Always something new! 🚀"
     };
-    ```
+    
   </details>
 </div>
