@@ -119,7 +119,7 @@ while (isAwake) {
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="20%">
       <h3 align="center">Reincarnation Journey</h3>
@@ -243,7 +243,7 @@ while (isAwake) {
 
 <details>
   <summary><h3>🌐 Web Development</h3></summary>
-  
+
   #### Languages
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -302,3 +302,34 @@ while (isAwake) {
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </details>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChanMeng666&show_icons=true&theme=tokyonight" alt="ChanMeng's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanMeng666&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanMeng666&theme=tokyonight" alt="GitHub Streak" height="170"/>
+</div>
+
+<details>
+  <summary><h3>🏆 GitHub Trophies</h3></summary>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ChanMeng666&theme=nord&column=7" alt="GitHub Trophies" />
+  </div>
+</details>
+
+<h3 align="center">🔝 Top Contributed Repositories</h3>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ChanMeng666&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/ChanMeng666/ChanMeng666/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation">
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ChanMeng666.ChanMeng666" alt="visitors">
+</div>
