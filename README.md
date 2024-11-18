@@ -50,7 +50,6 @@ while (isAwake) {
         <p style="margin: 0; padding: 0 10px;"><strong>React, Three.js</strong></p>
       </div>
     </td>
-    
     <td width="20%" valign="top">
       <h3 align="center" style="margin-top:0;">CORDE Mobile</h3>
       <div align="center">  
