@@ -337,3 +337,31 @@ while (isAwake) {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChanMeng666&style=flat-square&color=blue" alt="visitors">
 </div>
+
+<h2 align="center">💡 Random Dev Quote</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
+</div>
+
+<h2 align="center">👨‍💻 Chan Meng</h2>
+
+<div align="center">
+  <img src="/public/chan_by_the_sea.JPG" width="100%" alt="Chan Meng by the sea">
+  <br><br>
+  <p><i>Thanks for visiting my GitHub profile! Feel free to connect or check out my projects.</i></p>
+  <br>
+  <a href="https://www.linkedin.com/in/chanmeng666/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://chanmeng.live/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChanMeng666/ChanMeng666/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation">
+</div>
