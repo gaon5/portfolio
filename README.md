@@ -314,12 +314,10 @@ while (isAwake) {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanMeng666&theme=graywhite" alt="GitHub Streak" height="170"/>
 </div>
 
-<details>
-  <summary><h3>🏆 GitHub Trophies</h3></summary>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChanMeng666&theme=flat&column=7&margin-w=10" alt="GitHub Trophies" />
-  </div>
-</details>
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChanMeng666&theme=flat&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
 
 <h3 align="center">🔝 Top Contributed Repositories</h3>
 <div align="center">
