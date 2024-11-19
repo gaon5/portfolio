@@ -189,7 +189,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Swimming Club</h3>
       <div align="center">  
-        <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank"><img src="/public/brands/AI-programming" width="50%" alt="Swimming Club Management System"/></a>
+        <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank"><img src="/public/brands/AI-programming.svg" width="50%" alt="Swimming Club Management System"/></a>
         <br>
         <br>
         <p>
