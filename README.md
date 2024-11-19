@@ -36,7 +36,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Personal Portfolio</h3>
       <div align="center">  
-        <a href="https://chanmeng.live/" target="_blank"><img src="/public/brands/portfolio.png" width="100%" alt="Portfolio Website"></a>
+        <a href="https://chanmeng.live/" target="_blank"><img src="/public/brands/portfolio.svg" width="50%" alt="Portfolio Website"></a>
         <br>
         <br>
         <p>
@@ -53,7 +53,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">CORDE Mobile</h3>
       <div align="center">  
-        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.jpg" width="100%" alt="CORDE Mobile App"/></a>
+        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="50%" alt="CORDE Mobile App"/></a>
         <br>
         <br>
         <p>
@@ -70,7 +70,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Minimalist Living</h3>
       <div align="center">  
-        <a href="https://minimalist-good-post.vercel.app" target="_blank"><img src="/public/brands/minimalist-good-post.png" width="100%" alt="Minimalist Living Platform"/></a>
+        <a href="https://minimalist-good-post.vercel.app" target="_blank"><img src="/public/brands/minimalist-good-post.svg" width="50%" alt="Minimalist Living Platform"/></a>
         <br>
         <br>
         <p>
@@ -87,7 +87,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Forward with Her</h3>
       <div align="center">  
-        <a href="https://forward-with-her.vercel.app/" target="_blank"><img src="/public/brands/forward-with-her.jpg" width="100%" alt="Forward with Her Website"/></a>
+        <a href="https://forward-with-her.vercel.app/" target="_blank"><img src="/public/brands/forward-with-her.svg" width="50%" alt="Forward with Her Website"/></a>
         <br>
         <br>
         <p>
@@ -104,7 +104,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">FriendScope</h3>
       <div align="center">  
-        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.png" width="100%" alt="FriendScope Website"/></a>
+        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.svg" width="50%" alt="FriendScope Website"/></a>
         <br>
         <br>
         <p>
@@ -124,7 +124,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Reincarnation Journey</h3>
       <div align="center">  
-        <a href="https://journey-of-reincarnation2.vercel.app" target="_blank"><img src="/public/brands/journey-of-reincarnation2.png" width="100%" alt="Journey of Reincarnation Website"/></a>
+        <a href="https://journey-of-reincarnation2.vercel.app" target="_blank"><img src="/public/brands/journey-of-reincarnation2.svg" width="50%" alt="Journey of Reincarnation Website"/></a>
         <br>
         <br>
         <p>
@@ -141,7 +141,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Library Management</h3>
       <div align="center">  
-        <a href="https://github.com/ChanMeng666/library-management-system" target="_blank"><img src="/public/brands/library-management-system.svg" width="100%" alt="Library Management System"/></a>
+        <a href="https://github.com/ChanMeng666/library-management-system" target="_blank"><img src="/public/brands/library-management-system.svg" width="50%" alt="Library Management System"/></a>
         <br>
         <br>
         <p>
@@ -155,7 +155,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Chinese Redefine</h3>
       <div align="center">  
-        <a href="https://chinese-redefine.vercel.app/" target="_blank"><img src="/public/brands/chinese-redefine.svg" width="100%" alt="Chinese Redefine"/></a>
+        <a href="https://chinese-redefine.vercel.app/" target="_blank"><img src="/public/brands/chinese-redefine.svg" width="50%" alt="Chinese Redefine"/></a>
         <br>
         <br>
         <p>
@@ -172,7 +172,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">AgriHire Solutions</h3>
       <div align="center">  
-        <a href="https://agrihireaq.pythonanywhere.com/" target="_blank"><img src="/public/brands/AgriHire_Solutions.png" width="100%" alt="AgriHire Solutions"/></a>
+        <a href="https://agrihireaq.pythonanywhere.com/" target="_blank"><img src="/public/brands/AgriHire_Solutions.svg" width="50%" alt="AgriHire Solutions"/></a>
         <br>
         <br>
         <p>
@@ -189,7 +189,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Swimming Club</h3>
       <div align="center">  
-        <a href="https://countryside-community-sw-6wqr4e1.gamma.site/" target="_blank"><img src="/public/brands/Swimming_Club.png" width="100%" alt="Swimming Club Management System"/></a>
+        <a href="https://countryside-community-sw-6wqr4e1.gamma.site/" target="_blank"><img src="/public/brands/Swimming_Club.png" width="50%" alt="Swimming Club Management System"/></a>
         <br>
         <br>
         <p>
