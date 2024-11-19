@@ -153,16 +153,16 @@ while (isAwake) {
       </div>
     </td>
     <td width="20%">
-      <h3 align="center">Chinese Redefine</h3>
+      <h3 align="center">English Redefine</h3>
       <div align="center">  
-        <a href="https://chinese-redefine.vercel.app/" target="_blank"><img src="/public/brands/chinese-redefine.svg" width="50%" alt="Chinese Redefine"/></a>
+        <a href="https://english-redefine.vercel.app/" target="_blank"><img src="/public/brands/english-redefine.svg" width="50%" alt="English Redefine"/></a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/ChanMeng666/chinese-redefine" target="_blank">
+          <a href="https://github.com/ChanMeng666/english-redefine" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
           </a>
-          <a href="https://chinese-redefine.vercel.app/" target="_blank">
+          <a href="https://english-redefine.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
