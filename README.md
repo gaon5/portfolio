@@ -187,9 +187,9 @@ while (isAwake) {
       </div>
     </td>
     <td width="20%">
-      <h3 align="center">Swimming Club</h3>
+      <h3 align="center">AI Programming Education</h3>
       <div align="center">  
-        <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank"><img src="/public/brands/AI-programming.svg" width="50%" alt="Swimming Club Management System"/></a>
+        <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank"><img src="/public/brands/AI-programming.svg" width="50%" alt="AI Programming Education Platform"/></a>
         <br>
         <br>
         <p>
@@ -200,7 +200,7 @@ while (isAwake) {
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Flask, Bootstrap</strong></p>
+        <p><strong>React, JavaScript</strong></p>
       </div>
     </td>
   </tr>
