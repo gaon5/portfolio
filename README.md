@@ -155,7 +155,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">English Redefine</h3>
       <div align="center">  
-        <a href="https://english-redefine.vercel.app/" target="_blank"><img src="/public/brands/english-redefine.svg" width="50%" alt="English Redefine"/></a>
+        <a href="https://english-redefine.vercel.app/" target="_blank"><img src="/public/brands/EnglishRedefine.svg" width="50%" alt="English Redefine"/></a>
         <br>
         <br>
         <p>
@@ -189,14 +189,14 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Swimming Club</h3>
       <div align="center">  
-        <a href="https://countryside-community-sw-6wqr4e1.gamma.site/" target="_blank"><img src="/public/brands/Swimming_Club.png" width="50%" alt="Swimming Club Management System"/></a>
+        <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank"><img src="/public/brands/AI-programming" width="50%" alt="Swimming Club Management System"/></a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/ChanMeng666/Countryside-Community-Swimming-Club" target="_blank">
+          <a href="https://github.com/ChanMeng666/ai-programming-teaching-project" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
           </a>
-          <a href="https://countryside-community-sw-6wqr4e1.gamma.site/" target="_blank">
+          <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
