@@ -257,7 +257,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">East Coast Anglers Club</h3>
       <div align="center">  
-        <a href="https://groupac.pythonanywhere.com/" target="_blank"><img src="/public/brands/shipfishing.svg" width="100%" alt="East Coast Anglers Club"/></a>
+        <a href="https://groupac.pythonanywhere.com/" target="_blank"><img src="/public/brands/shipfishing.svg" width="50%" alt="East Coast Anglers Club"/></a>
         <br>
         <br>
         <p>
