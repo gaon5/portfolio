@@ -204,6 +204,91 @@ while (isAwake) {
       </div>
     </td>
   </tr>
+
+  <tr>
+    <td width="20%">
+      <h3 align="center">Tencent Meeting Video Downloader</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank"><img src="/public/brands/tencent-meeting-video-downloader.svg" width="50%" alt="Tencent Meeting Video Downloader Releases"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Chrome Extension, Webpack</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">FemTracker Android Mobile App</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/FemTracker" target="_blank"><img src="/public/brands/FemTracker.svg" width="50%" alt="FemTracker"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/FemTracker" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p><strong>Expo, FemTech</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Brick Breaker Game</h3>
+      <div align="center">  
+        <a href="https://chanmeng666.github.io/html-brick-game/" target="_blank"><img src="/public/brands/html-brick-game.png" width="50%" alt="Brick Breaker Game"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/html-brick-game" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://chanmeng666.github.io/html-brick-game/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Javascript, HTML5 Canvas</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">East Coast Anglers Club</h3>
+      <div align="center">  
+        <a href="https://groupac.pythonanywhere.com/" target="_blank"><img src="/public/brands/shipfishing.svg" width="100%" alt="East Coast Anglers Club"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/Fishing-Club-Project" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://groupac.pythonanywhere.com/login" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Bootstrap, Javascript</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">README Template</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666" target="_blank"><img src="/public/brands/shakeheaddog.gif" width="50%" alt="README Template"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/ChanMeng666" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://github.com/ChanMeng666" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Markdown, HTML</strong></p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
