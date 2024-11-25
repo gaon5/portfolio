@@ -240,7 +240,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Brick Breaker Game</h3>
       <div align="center">  
-        <a href="https://chanmeng666.github.io/html-brick-game/" target="_blank"><img src="/public/brands/html-brick-game.png" width="50%" alt="Brick Breaker Game"/></a>
+        <a href="https://chanmeng666.github.io/html-brick-game/" target="_blank"><img src="/public/brands/html-brick-game.svg" width="50%" alt="Brick Breaker Game"/></a>
         <br>
         <br>
         <p>
