@@ -29,13 +29,102 @@ while (isAwake) {
 ```
 </details>
 
-
-
-
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <!-- Primary Projects (Always Visible) -->
+<table>
+  <tr>
+    <td width="20%">
+      <h3 align="center">CORDE Mobile</h3>
+      <div align="center">  
+        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="50%" alt="CORDE Mobile App"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/CORDE-Mobile-Application" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>React Native, SQLite</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">FriendScope</h3>
+      <div align="center">  
+        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.svg" width="50%" alt="FriendScope Website"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/friendscope" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://friendscope.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, TypeScript</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">AgriHire Solutions</h3>
+      <div align="center">  
+        <a href="https://agrihireaq.pythonanywhere.com/" target="_blank"><img src="/public/brands/AgriHire_Solutions.svg" width="100%" alt="AgriHire Solutions"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/AgriHire-Solutions" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://agrihireaq.pythonanywhere.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Flask, ECharts</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">CustomerInsight</h3>
+      <div align="center">  
+        <a href="https://chanmeng666-customerinsight-app-oeiu2h.streamlit.app/" target="_blank"><img src="/public/brands/streamlit_hero.jpg" width="50%" alt="Streamlit Logo"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/CustomerInsight" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://chanmeng666-customerinsight-app-oeiu2h.streamlit.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Streamlit, Text Analysis</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Tencent Meeting Video Downloader</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank"><img src="/public/brands/tencent-meeting-video-downloader.svg" width="50%" alt="Tencent Meeting Video Downloader Releases"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Chrome Extension, Webpack</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Web Applications Section -->
+<details>
+<summary><h3>🌐 Web Applications</h3></summary>
 <table>
   <tr>
     <td width="20%">
@@ -56,20 +145,37 @@ while (isAwake) {
       </div>
     </td>
     <td width="20%">
-      <h3 align="center">CORDE Mobile</h3>
+      <h3 align="center">FriendScope</h3>
       <div align="center">  
-        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="50%" alt="CORDE Mobile App"/></a>
+        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.svg" width="50%" alt="FriendScope Website"/></a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/ChanMeng666/CORDE-Mobile-Application" target="_blank">
+          <a href="https://github.com/ChanMeng666/friendscope" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
           </a>
-          <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank">
+          <a href="https://friendscope.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>React Native, SQLite</strong></p>
+        <p><strong>Next.js, TypeScript</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">AgriHire Solutions</h3>
+      <div align="center">  
+        <a href="https://agrihireaq.pythonanywhere.com/" target="_blank"><img src="/public/brands/AgriHire_Solutions.svg" width="100%" alt="AgriHire Solutions"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/AgriHire-Solutions" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://agrihireaq.pythonanywhere.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Flask, ECharts</strong></p>
       </div>
     </td>
     <td width="20%">
@@ -106,31 +212,6 @@ while (isAwake) {
         <p><strong>Next.js, Three.js</strong></p>
       </div>
     </td>
-    <td width="20%">
-      <h3 align="center">FriendScope</h3>
-      <div align="center">  
-        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.svg" width="50%" alt="FriendScope Website"/></a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/ChanMeng666/friendscope" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://friendscope.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
-          </a>
-        </p>
-        <p><strong>Next.js, TypeScript</strong></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- Web Applications Section -->
-<details>
-<summary><h3>🌐 Web Applications</h3></summary>
-<table>
-  <tr>
     <td width="20%">
       <h3 align="center">Reincarnation Journey</h3>
       <div align="center">  
@@ -196,23 +277,6 @@ while (isAwake) {
         <p><strong>Bootstrap, Javascript</strong></p>
       </div>
     </td>
-    <td width="20%">
-      <h3 align="center">AgriHire Solutions</h3>
-      <div align="center">  
-        <a href="https://agrihireaq.pythonanywhere.com/" target="_blank"><img src="/public/brands/AgriHire_Solutions.svg" width="100%" alt="AgriHire Solutions"/></a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/ChanMeng666/AgriHire-Solutions" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://agrihireaq.pythonanywhere.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
-          </a>
-        </p>
-        <p><strong>Flask, ECharts</strong></p>
-      </div>
-    </td>
   </tr>
 </table>
 </details>
@@ -224,23 +288,6 @@ while (isAwake) {
 <summary><h3>🤖 AI & Machine Learning</h3></summary>
 <table>
   <tr>
-    <td width="20%">
-      <h3 align="center">AI Image Generator</h3>
-      <div align="center">  
-        <a href="https://image-generator-sable-tau.vercel.app/" target="_blank"><img src="/public/brands/image-generator.svg" width="50%" alt="AI Image Generator Logo"/></a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/ChanMeng666/image-generator" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://image-generator-sable-tau.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
-          </a>
-        </p>
-        <p><strong>Image Generation, Together AI</strong></p>
-      </div>
-    </td>
     <td width="20%">
       <h3 align="center">CustomerInsight</h3>
       <div align="center">  
@@ -259,6 +306,40 @@ while (isAwake) {
       </div>
     </td>
     <td width="20%">
+      <h3 align="center">AI Image Generator</h3>
+      <div align="center">  
+        <a href="https://image-generator-sable-tau.vercel.app/" target="_blank"><img src="/public/brands/image-generator.svg" width="50%" alt="AI Image Generator Logo"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/image-generator" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://image-generator-sable-tau.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Image Generation, Together AI</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">English Redefine</h3>
+      <div align="center">  
+        <a href="https://english-redefine.vercel.app/" target="_blank"><img src="/public/brands/EnglishRedefine.svg" width="50%" alt="English Redefine"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/english-redefine" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://english-redefine.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Tailwind</strong></p>
+      </div>
+    </td>
+    <td width="20%">
       <h3 align="center">Chinese Redefine</h3>
       <div align="center">  
         <a href="https://chinese-redefine.vercel.app/" target="_blank"><img src="/public/brands/ChineseRedefine.svg" width="50%" alt="Chinese Redefine Logo"/></a>
@@ -273,23 +354,6 @@ while (isAwake) {
           </a>
         </p>
         <p><strong>Gemini AI, SVG Export</strong></p>
-      </div>
-    </td>
-    <td width="20%">
-      <h3 align="center">AI Programming Education</h3>
-      <div align="center">  
-        <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank"><img src="/public/brands/AI-programming.svg" width="50%" alt="AI Programming Education Platform"/></a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/ChanMeng666/ai-programming-teaching-project" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
-          </a>
-        </p>
-        <p><strong>React, JavaScript</strong></p>
       </div>
     </td>
     <td width="20%">
@@ -321,34 +385,20 @@ while (isAwake) {
 <table>
   <tr>
     <td width="20%">
-      <h3 align="center">English Redefine</h3>
+      <h3 align="center">AI Programming Education</h3>
       <div align="center">  
-        <a href="https://english-redefine.vercel.app/" target="_blank"><img src="/public/brands/EnglishRedefine.svg" width="50%" alt="English Redefine"/></a>
+        <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank"><img src="/public/brands/AI-programming.svg" width="50%" alt="AI Programming Education Platform"/></a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/ChanMeng666/english-redefine" target="_blank">
+          <a href="https://github.com/ChanMeng666/ai-programming-teaching-project" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
           </a>
-          <a href="https://english-redefine.vercel.app/" target="_blank">
+          <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Next.js, Tailwind</strong></p>
-      </div>
-    </td>
-    <td width="20%">
-      <h3 align="center">Library Management</h3>
-      <div align="center">  
-        <a href="https://github.com/ChanMeng666/library-management-system" target="_blank"><img src="/public/brands/library-management-system.svg" width="50%" alt="Library Management System"/></a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/ChanMeng666/library-management-system" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-        <p><strong>Next.js, Supabase</strong></p>
+        <p><strong>React, JavaScript</strong></p>
       </div>
     </td>
     <td width="20%">
@@ -422,20 +472,6 @@ while (isAwake) {
 <table>
   <tr>
     <td width="20%">
-      <h3 align="center">FemTracker Mobile App</h3>
-      <div align="center">  
-        <a href="https://github.com/ChanMeng666/FemTracker" target="_blank"><img src="/public/brands/FemTracker.svg" width="50%" alt="FemTracker"/></a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/ChanMeng666/FemTracker" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-        <p><strong>Expo, FemTech</strong></p>
-      </div>
-    </td>
-    <td width="20%">
       <h3 align="center">CORDE Mobile</h3>
       <div align="center">  
         <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="50%" alt="CORDE Mobile App"/></a>
@@ -450,6 +486,20 @@ while (isAwake) {
           </a>
         </p>
         <p><strong>React Native, SQLite</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">FemTracker Mobile App</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/FemTracker" target="_blank"><img src="/public/brands/FemTracker.svg" width="50%" alt="FemTracker"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/FemTracker" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p><strong>Expo, FemTech</strong></p>
       </div>
     </td>
     <td width="20%">
