@@ -387,7 +387,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">README Template</h3>
       <div align="center">  
-        <a href="https://github.com/ChanMeng666" target="_blank"><img src="/public/brands/vidu--4-2024-11-22T10_13_44Z.gif" width="50%" alt="README Template"/></a>
+        <a href="https://github.com/ChanMeng666" target="_blank"><img src="/public/brands/vidu--4-2024-11-22T10_13_44Z.gif" width="100%" alt="README Template"/></a>
         <br>
         <br>
         <p>
@@ -431,7 +431,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Douban Elite Scraper</h3>
       <div align="center">  
-        <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank"><img src="/public/brands/vidu--4-2024-11-22T09_53_54Z.gif" width="50%" alt="Douban Elite Scraper"/></a>
+        <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank"><img src="/public/brands/vidu--4-2024-11-22T09_53_54Z.gif" width="100%" alt="Douban Elite Scraper"/></a>
         <br>
         <br>
         <p>
@@ -448,7 +448,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Douban Review Scraper</h3>
       <div align="center">  
-        <a href="https://github.com/ChanMeng666/DoubanReviewScraper" target="_blank"><img src="/public/brands/vidu--4-2024-11-22T10_11_17Z.gif" width="50%" alt="Douban Elite Scraper"/></a>
+        <a href="https://github.com/ChanMeng666/DoubanReviewScraper" target="_blank"><img src="/public/brands/vidu--4-2024-11-22T10_11_17Z.gif" width="100%" alt="Douban Elite Scraper"/></a>
         <br>
         <br>
         <p>
