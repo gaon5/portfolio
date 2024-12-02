@@ -29,6 +29,114 @@ while (isAwake) {
 ```
 </details>
 
+
+
+
+# ... (previous content remains the same until Featured Projects section)
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<!-- First Row (Always Visible) -->
+<table>
+  <tr>
+    <td width="20%">
+      <h3 align="center">Personal Portfolio</h3>
+      <div align="center">  
+        <a href="https://chanmeng.live/" target="_blank"><img src="/public/brands/portfolio.svg" width="50%" alt="Portfolio Website"></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/3D-Portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://chanmeng.live/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>React, Three.js</strong></p>
+      </div>
+    </td>
+    <!-- ... (remaining cells in first row) ... -->
+  </tr>
+</table>
+
+<!-- Additional Rows (Collapsible) -->
+<details>
+<summary><strong>📂 View More Projects</strong></summary>
+
+<table>
+  <!-- Second Row -->
+  <tr>
+    <td width="20%">
+      <h3 align="center">Reincarnation Journey</h3>
+      <div align="center">  
+        <a href="https://journey-of-reincarnation2.vercel.app" target="_blank"><img src="/public/brands/journey-of-reincarnation2.svg" width="50%" alt="Journey of Reincarnation Website"></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/journey-of-reincarnation2" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://journey-of-reincarnation2.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Chart.js</strong></p>
+      </div>
+    </td>
+    <!-- ... (remaining cells in second row) ... -->
+  </tr>
+
+  <!-- Third Row -->
+  <tr>
+    <td width="20%">
+      <h3 align="center">Tencent Meeting Video Downloader</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank"><img src="/public/brands/tencent-meeting-video-downloader.svg" width="50%" alt="Tencent Meeting Video Downloader Releases"></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Chrome Extension, Webpack</strong></p>
+      </div>
+    </td>
+    <!-- ... (remaining cells in third row) ... -->
+  </tr>
+
+  <!-- Fourth Row -->
+  <tr>
+    <td width="20%">
+      <h3 align="center">FreePeriod Official</h3>
+      <div align="center">  
+        <a href="https://free-period-website.vercel.app/" target="_blank"><img src="/public/brands/FreePeriodLogo.png" width="50%" alt="FreePeriod Official Logo"></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/free-period-website" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://free-period-website.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>FemTech, Independent Website</strong></p>
+      </div>
+    </td>
+    <!-- ... (remaining cells in fourth row) ... -->
+  </tr>
+</table>
+</details>
+
+<!-- ... (rest of the README content remains the same) ... -->
+
+
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
