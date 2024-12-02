@@ -295,7 +295,7 @@ while (isAwake) {
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="20%">
       <h3 align="center">FreePeriod Official</h3>
@@ -373,7 +373,7 @@ while (isAwake) {
             <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Bootstrap, Javascript</strong></p>
+        <p><strong>Python, Web Scraping</strong></p>
       </div>
     </td>
   </tr>
