@@ -291,7 +291,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">CustomerInsight</h3>
       <div align="center">  
-        <a href="https://chanmeng666-customerinsight-app-oeiu2h.streamlit.app/" target="_blank"><img src="/public/brands/streamlit_hero.jpg" width="50%" alt="Streamlit Logo"/></a>
+        <a href="https://chanmeng666-customerinsight-app-oeiu2h.streamlit.app/" target="_blank"><img src="/public/brands/streamlit_hero.jpg" width="100%" alt="Streamlit Logo"/></a>
         <br>
         <br>
         <p>
@@ -308,7 +308,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">AI Image Generator</h3>
       <div align="center">  
-        <a href="https://image-generator-sable-tau.vercel.app/" target="_blank"><img src="/public/brands/image-generator.svg" width="50%" alt="AI Image Generator Logo"/></a>
+        <a href="https://image-generator-sable-tau.vercel.app/" target="_blank"><img src="/public/brands/image-generator.svg" width="100%" alt="AI Image Generator Logo"/></a>
         <br>
         <br>
         <p>
@@ -325,7 +325,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">English Redefine</h3>
       <div align="center">  
-        <a href="https://english-redefine.vercel.app/" target="_blank"><img src="/public/brands/EnglishRedefine.svg" width="50%" alt="English Redefine"/></a>
+        <a href="https://english-redefine.vercel.app/" target="_blank"><img src="/public/brands/EnglishRedefine.svg" width="100%" alt="English Redefine"/></a>
         <br>
         <br>
         <p>
@@ -342,7 +342,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Chinese Redefine</h3>
       <div align="center">  
-        <a href="https://chinese-redefine.vercel.app/" target="_blank"><img src="/public/brands/ChineseRedefine.svg" width="50%" alt="Chinese Redefine Logo"/></a>
+        <a href="https://chinese-redefine.vercel.app/" target="_blank"><img src="/public/brands/ChineseRedefine.svg" width="100%" alt="Chinese Redefine Logo"/></a>
         <br>
         <br>
         <p>
@@ -370,7 +370,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">AI Programming Education</h3>
       <div align="center">  
-        <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank"><img src="/public/brands/AI-programming.svg" width="50%" alt="AI Programming Education Platform"/></a>
+        <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank"><img src="/public/brands/AI-programming.svg" width="100%" alt="AI Programming Education Platform"/></a>
         <br>
         <br>
         <p>
@@ -414,7 +414,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Tencent Meeting Video Downloader</h3>
       <div align="center">  
-        <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank"><img src="/public/brands/tencent-meeting-video-downloader.svg" width="50%" alt="Tencent Meeting Video Downloader Releases"/></a>
+        <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank"><img src="/public/brands/tencent-meeting-video-downloader.svg" width="100%" alt="Tencent Meeting Video Downloader Releases"/></a>
         <br>
         <br>
         <p>
@@ -474,7 +474,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">CORDE Mobile</h3>
       <div align="center">  
-        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="50%" alt="CORDE Mobile App"/></a>
+        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="100%" alt="CORDE Mobile App"/></a>
         <br>
         <br>
         <p>
@@ -491,7 +491,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">FemTracker Mobile App</h3>
       <div align="center">  
-        <a href="https://github.com/ChanMeng666/FemTracker" target="_blank"><img src="/public/brands/FemTracker.svg" width="50%" alt="FemTracker"/></a>
+        <a href="https://github.com/ChanMeng666/FemTracker" target="_blank"><img src="/public/brands/FemTracker.svg" width="100%" alt="FemTracker"/></a>
         <br>
         <br>
         <p>
@@ -505,7 +505,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Brick Breaker Game</h3>
       <div align="center">  
-        <a href="https://chanmeng666.github.io/html-brick-game/" target="_blank"><img src="/public/brands/html-brick-game.svg" width="50%" alt="Brick Breaker Game"/></a>
+        <a href="https://chanmeng666.github.io/html-brick-game/" target="_blank"><img src="/public/brands/html-brick-game.svg" width="100%" alt="Brick Breaker Game"/></a>
         <br>
         <br>
         <p>
