@@ -37,7 +37,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">CORDE Mobile</h3>
       <div align="center">  
-        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="50%" alt="CORDE Mobile App"/></a>
+        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="100%" alt="CORDE Mobile App"/></a>
         <br>
         <br>
         <p>
@@ -54,7 +54,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">FriendScope</h3>
       <div align="center">  
-        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.svg" width="50%" alt="FriendScope Website"/></a>
+        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.svg" width="100%" alt="FriendScope Website"/></a>
         <br>
         <br>
         <p>
@@ -88,7 +88,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">CustomerInsight</h3>
       <div align="center">  
-        <a href="https://chanmeng666-customerinsight-app-oeiu2h.streamlit.app/" target="_blank"><img src="/public/brands/streamlit_hero.jpg" width="50%" alt="Streamlit Logo"/></a>
+        <a href="https://chanmeng666-customerinsight-app-oeiu2h.streamlit.app/" target="_blank"><img src="/public/brands/streamlit_hero.jpg" width="100%" alt="Streamlit Logo"/></a>
         <br>
         <br>
         <p>
@@ -105,7 +105,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Tencent Meeting Video Downloader</h3>
       <div align="center">  
-        <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank"><img src="/public/brands/tencent-meeting-video-downloader.svg" width="50%" alt="Tencent Meeting Video Downloader Releases"/></a>
+        <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank"><img src="/public/brands/tencent-meeting-video-downloader.svg" width="100%" alt="Tencent Meeting Video Downloader Releases"/></a>
         <br>
         <br>
         <p>
@@ -130,7 +130,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Personal Portfolio</h3>
       <div align="center">  
-        <a href="https://chanmeng.live/" target="_blank"><img src="/public/brands/portfolio.svg" width="50%" alt="Portfolio Website"></a>
+        <a href="https://chanmeng.live/" target="_blank"><img src="/public/brands/portfolio.svg" width="100%" alt="Portfolio Website"></a>
         <br>
         <br>
         <p>
@@ -147,7 +147,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">FriendScope</h3>
       <div align="center">  
-        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.svg" width="50%" alt="FriendScope Website"/></a>
+        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.svg" width="100%" alt="FriendScope Website"/></a>
         <br>
         <br>
         <p>
@@ -181,7 +181,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Minimalist Living</h3>
       <div align="center">  
-        <a href="https://minimalist-good-post.vercel.app" target="_blank"><img src="/public/brands/minimalist-good-post.svg" width="50%" alt="Minimalist Living Platform"/></a>
+        <a href="https://minimalist-good-post.vercel.app" target="_blank"><img src="/public/brands/minimalist-good-post.svg" width="100%" alt="Minimalist Living Platform"/></a>
         <br>
         <br>
         <p>
@@ -198,7 +198,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Forward with Her</h3>
       <div align="center">  
-        <a href="https://forward-with-her.vercel.app/" target="_blank"><img src="/public/brands/forward-with-her.svg" width="50%" alt="Forward with Her Website"/></a>
+        <a href="https://forward-with-her.vercel.app/" target="_blank"><img src="/public/brands/forward-with-her.svg" width="100%" alt="Forward with Her Website"/></a>
         <br>
         <br>
         <p>
@@ -215,7 +215,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Reincarnation Journey</h3>
       <div align="center">  
-        <a href="https://journey-of-reincarnation2.vercel.app" target="_blank"><img src="/public/brands/journey-of-reincarnation2.svg" width="50%" alt="Journey of Reincarnation Website"/></a>
+        <a href="https://journey-of-reincarnation2.vercel.app" target="_blank"><img src="/public/brands/journey-of-reincarnation2.svg" width="100%" alt="Journey of Reincarnation Website"/></a>
         <br>
         <br>
         <p>
@@ -232,7 +232,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">FreePeriod Official</h3>
       <div align="center">  
-        <a href="https://free-period-website.vercel.app/" target="_blank"><img src="/public/brands/FreePeriodLogo.png" width="50%" alt="FreePeriod Official Logo"/></a>
+        <a href="https://free-period-website.vercel.app/" target="_blank"><img src="/public/brands/FreePeriodLogo.png" width="100%" alt="FreePeriod Official Logo"/></a>
         <br>
         <br>
         <p>
@@ -249,7 +249,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">Library Management</h3>
       <div align="center">  
-        <a href="https://github.com/ChanMeng666/library-management-system" target="_blank"><img src="/public/brands/library-management-system.svg" width="50%" alt="Library Management System"/></a>
+        <a href="https://github.com/ChanMeng666/library-management-system" target="_blank"><img src="/public/brands/library-management-system.svg" width="100%" alt="Library Management System"/></a>
         <br>
         <br>
         <p>
@@ -263,7 +263,7 @@ while (isAwake) {
     <td width="20%">
       <h3 align="center">East Coast Anglers Club</h3>
       <div align="center">  
-        <a href="https://groupac.pythonanywhere.com/" target="_blank"><img src="/public/brands/shipfishing.svg" width="50%" alt="East Coast Anglers Club"/></a>
+        <a href="https://groupac.pythonanywhere.com/" target="_blank"><img src="/public/brands/shipfishing.svg" width="100%" alt="East Coast Anglers Club"/></a>
         <br>
         <br>
         <p>
