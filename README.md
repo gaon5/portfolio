@@ -373,6 +373,49 @@ while (isAwake) {
 </details>
 
 
+<!-- Tools & Extensions Section -->
+<details>
+<summary><h3>🛠️ Tools & Extensions</h3></summary>
+<table>
+  <tr>
+    <td width="20%">
+      <h3 align="center">Tencent Meeting Video Downloader</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank"><img src="/public/brands/tencent-meeting-video-downloader.svg" width="50%" alt="Tencent Meeting Video Downloader Releases"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Chrome Extension, Webpack</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Douban Elite Scraper</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank"><img src="/public/brands/catlookingcomputer.gif" width="50%" alt="Douban Elite Scraper"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Python, Web Scraping</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
+</details>
+
 
 
 
