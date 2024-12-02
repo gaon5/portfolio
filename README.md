@@ -219,6 +219,113 @@ while (isAwake) {
 
 
 
+<!-- AI & Machine Learning Section -->
+<details>
+<summary><h3>🤖 AI & Machine Learning</h3></summary>
+<table>
+  <tr>
+    <td width="20%">
+      <h3 align="center">AI Image Generator</h3>
+      <div align="center">  
+        <a href="https://image-generator-sable-tau.vercel.app/" target="_blank"><img src="/public/brands/image-generator.svg" width="50%" alt="AI Image Generator Logo"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/image-generator" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://image-generator-sable-tau.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Image Generation, Together AI</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">CustomerInsight</h3>
+      <div align="center">  
+        <a href="https://chanmeng666-customerinsight-app-oeiu2h.streamlit.app/" target="_blank"><img src="/public/brands/streamlit_hero.jpg" width="50%" alt="Streamlit Logo"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/CustomerInsight" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://chanmeng666-customerinsight-app-oeiu2h.streamlit.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Streamlit, Text Analysis</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Chinese Redefine</h3>
+      <div align="center">  
+        <a href="https://chinese-redefine.vercel.app/" target="_blank"><img src="/public/brands/ChineseRedefine.svg" width="50%" alt="Chinese Redefine Logo"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/chinese-redefine" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://chinese-redefine.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Gemini AI, SVG Export</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">AI Programming Education</h3>
+      <div align="center">  
+        <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank"><img src="/public/brands/AI-programming.svg" width="50%" alt="AI Programming Education Platform"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/ai-programming-teaching-project" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://ai-programming-teaching-project.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>React, JavaScript</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Douban Elite Scraper</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank"><img src="/public/brands/catlookingcomputer.gif" width="50%" alt="Douban Elite Scraper"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Python, Web Scraping</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2 align="center">🚀 Featured Projects</h2>
 
