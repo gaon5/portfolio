@@ -139,17 +139,20 @@ while (isAwake) {
       </div>
     </td>
     <td width="20%">
-      <h3 align="center">Library Management</h3>
+      <h3 align="center">CustomerInsight</h3>
       <div align="center">  
-        <a href="https://github.com/ChanMeng666/library-management-system" target="_blank"><img src="/public/brands/library-management-system.svg" width="50%" alt="Library Management System"/></a>
+        <a href="https://chanmeng666-customerinsight-app-oeiu2h.streamlit.app/" target="_blank"><img src="/public/brands/streamlit_hero.jpg" width="50%" alt="Streamlit Logo"/></a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/ChanMeng666/library-management-system" target="_blank">
+          <a href="https://github.com/ChanMeng666/CustomerInsight" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
           </a>
+          <a href="https://chanmeng666-customerinsight-app-oeiu2h.streamlit.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
         </p>
-        <p><strong>Next.js, Supabase</strong></p>
+        <p><strong>Streamlit, Text Analysis</strong></p>
       </div>
     </td>
     <td width="20%">
@@ -224,17 +227,20 @@ while (isAwake) {
       </div>
     </td>
     <td width="20%">
-      <h3 align="center">FemTracker Android Mobile App</h3>
+      <h3 align="center">AI Image Generator</h3>
       <div align="center">  
-        <a href="https://github.com/ChanMeng666/FemTracker" target="_blank"><img src="/public/brands/FemTracker.svg" width="50%" alt="FemTracker"/></a>
+        <a href="https://image-generator-sable-tau.vercel.app/" target="_blank"><img src="/public/brands/image-generator.svg" width="50%" alt="AI Image Generator Logo"/></a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/ChanMeng666/FemTracker" target="_blank">
+          <a href="https://github.com/ChanMeng666/image-generator" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
           </a>
+          <a href="https://image-generator-sable-tau.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
         </p>
-        <p><strong>Expo, FemTech</strong></p>
+        <p><strong>Image Generation, Together AI</strong></p>
       </div>
     </td>
     <td width="20%">
@@ -286,6 +292,88 @@ while (isAwake) {
           </a>
         </p>
         <p><strong>Markdown, HTML</strong></p>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="20%">
+      <h3 align="center">FreePeriod Official</h3>
+      <div align="center">  
+        <a href="https://free-period-website.vercel.app/" target="_blank"><img src="/public/brands/FreePeriodLogo.png" width="50%" alt="FreePeriod Official Logo"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/free-period-website" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://free-period-website.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>FemTech, Independent Website</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">FemTracker Android Mobile App</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/FemTracker" target="_blank"><img src="/public/brands/FemTracker.svg" width="50%" alt="FemTracker"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/FemTracker" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p><strong>Expo, FemTech</strong></p>
+      </div>
+    </td>
+        <td width="20%">
+      <h3 align="center">Library Management</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/library-management-system" target="_blank"><img src="/public/brands/library-management-system.svg" width="50%" alt="Library Management System"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/library-management-system" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Supabase</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Chinese Redefine</h3>
+      <div align="center">  
+        <a href="https://chinese-redefine.vercel.app/" target="_blank"><img src="/public/brands/ChineseRedefine.svg" width="50%" alt="Chinese Redefine Logo"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/chinese-redefine" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://chinese-redefine.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Gemini AI, SVG Export</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Douban Elite Scraper</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank"><img src="/public/brands/catlookingcomputer.gif" width="50%" alt="Douban Elite Scraper"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://github.com/ChanMeng666/Douban-elite-scraper" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Bootstrap, Javascript</strong></p>
       </div>
     </td>
   </tr>
