@@ -416,7 +416,70 @@ while (isAwake) {
 </table>
 </details>
 
+<!-- Mobile & Games Section -->
+<details>
+<summary><h3>📱 Mobile & Games</h3></summary>
+<table>
+  <tr>
+    <td width="20%">
+      <h3 align="center">FemTracker Mobile App</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/FemTracker" target="_blank"><img src="/public/brands/FemTracker.svg" width="50%" alt="FemTracker"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/FemTracker" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p><strong>Expo, FemTech</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">CORDE Mobile</h3>
+      <div align="center">  
+        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="50%" alt="CORDE Mobile App"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/CORDE-Mobile-Application" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>React Native, SQLite</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Brick Breaker Game</h3>
+      <div align="center">  
+        <a href="https://chanmeng666.github.io/html-brick-game/" target="_blank"><img src="/public/brands/html-brick-game.svg" width="50%" alt="Brick Breaker Game"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/html-brick-game" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://chanmeng666.github.io/html-brick-game/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Javascript, HTML5 Canvas</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
+</details>
 
+<!-- More Projects Button -->
+<div align="center">
+  <h3>More Projects</h3>
+  <a href="https://github.com/ChanMeng666?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All-My%20Repositories-blue?style=for-the-badge&logo=github"/>
+  </a>
+</div>
 
 
 
