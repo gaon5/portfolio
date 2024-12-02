@@ -256,6 +256,9 @@ while (isAwake) {
           <a href="https://github.com/ChanMeng666/library-management-system" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
           </a>
+          <a href="https://github.com/ChanMeng666/library-management-system" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
         </p>
         <p><strong>Next.js, Supabase</strong></p>
       </div>
@@ -497,6 +500,9 @@ while (isAwake) {
         <p>
           <a href="https://github.com/ChanMeng666/FemTracker" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://github.com/ChanMeng666/FemTracker" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
         <p><strong>Expo, FemTech</strong></p>
