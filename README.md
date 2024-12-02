@@ -32,11 +32,10 @@ while (isAwake) {
 
 
 
-# ... (previous content remains the same until Featured Projects section)
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<!-- First Row (Always Visible) -->
+<!-- Primary Projects (Always Visible) -->
 <table>
   <tr>
     <td width="20%">
@@ -56,21 +55,86 @@ while (isAwake) {
         <p><strong>React, Three.js</strong></p>
       </div>
     </td>
-    <!-- ... (remaining cells in first row) ... -->
+    <td width="20%">
+      <h3 align="center">CORDE Mobile</h3>
+      <div align="center">  
+        <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="50%" alt="CORDE Mobile App"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/CORDE-Mobile-Application" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>React Native, SQLite</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Minimalist Living</h3>
+      <div align="center">  
+        <a href="https://minimalist-good-post.vercel.app" target="_blank"><img src="/public/brands/minimalist-good-post.svg" width="50%" alt="Minimalist Living Platform"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/minimalist-good-post" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://minimalist-good-post.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Docusaurus, React</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Forward with Her</h3>
+      <div align="center">  
+        <a href="https://forward-with-her.vercel.app/" target="_blank"><img src="/public/brands/forward-with-her.svg" width="50%" alt="Forward with Her Website"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/3d-model-viewer" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://forward-with-her.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Three.js</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">FriendScope</h3>
+      <div align="center">  
+        <a href="https://friendscope.vercel.app/" target="_blank"><img src="/public/brands/friendscope.svg" width="50%" alt="FriendScope Website"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/friendscope" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://friendscope.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, TypeScript</strong></p>
+      </div>
+    </td>
   </tr>
 </table>
 
-<!-- Additional Rows (Collapsible) -->
+<!-- Web Applications Section -->
 <details>
-<summary><strong>📂 View More Projects</strong></summary>
-
+<summary><h3>🌐 Web Applications</h3></summary>
 <table>
-  <!-- Second Row -->
   <tr>
     <td width="20%">
       <h3 align="center">Reincarnation Journey</h3>
       <div align="center">  
-        <a href="https://journey-of-reincarnation2.vercel.app" target="_blank"><img src="/public/brands/journey-of-reincarnation2.svg" width="50%" alt="Journey of Reincarnation Website"></a>
+        <a href="https://journey-of-reincarnation2.vercel.app" target="_blank"><img src="/public/brands/journey-of-reincarnation2.svg" width="50%" alt="Journey of Reincarnation Website"/></a>
         <br>
         <br>
         <p>
@@ -84,37 +148,10 @@ while (isAwake) {
         <p><strong>Next.js, Chart.js</strong></p>
       </div>
     </td>
-    <!-- ... (remaining cells in second row) ... -->
-  </tr>
-
-  <!-- Third Row -->
-  <tr>
-    <td width="20%">
-      <h3 align="center">Tencent Meeting Video Downloader</h3>
-      <div align="center">  
-        <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank"><img src="/public/brands/tencent-meeting-video-downloader.svg" width="50%" alt="Tencent Meeting Video Downloader Releases"></a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://github.com/ChanMeng666/tencent-meeting-video-downloader/releases" target="_blank">
-            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
-          </a>
-        </p>
-        <p><strong>Chrome Extension, Webpack</strong></p>
-      </div>
-    </td>
-    <!-- ... (remaining cells in third row) ... -->
-  </tr>
-
-  <!-- Fourth Row -->
-  <tr>
     <td width="20%">
       <h3 align="center">FreePeriod Official</h3>
       <div align="center">  
-        <a href="https://free-period-website.vercel.app/" target="_blank"><img src="/public/brands/FreePeriodLogo.png" width="50%" alt="FreePeriod Official Logo"></a>
+        <a href="https://free-period-website.vercel.app/" target="_blank"><img src="/public/brands/FreePeriodLogo.png" width="50%" alt="FreePeriod Official Logo"/></a>
         <br>
         <br>
         <p>
@@ -128,12 +165,58 @@ while (isAwake) {
         <p><strong>FemTech, Independent Website</strong></p>
       </div>
     </td>
-    <!-- ... (remaining cells in fourth row) ... -->
+    <td width="20%">
+      <h3 align="center">Library Management</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/library-management-system" target="_blank"><img src="/public/brands/library-management-system.svg" width="50%" alt="Library Management System"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/library-management-system" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Supabase</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">East Coast Anglers Club</h3>
+      <div align="center">  
+        <a href="https://groupac.pythonanywhere.com/" target="_blank"><img src="/public/brands/shipfishing.svg" width="50%" alt="East Coast Anglers Club"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/Fishing-Club-Project" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://groupac.pythonanywhere.com/login" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Bootstrap, Javascript</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">AgriHire Solutions</h3>
+      <div align="center">  
+        <a href="https://agrihireaq.pythonanywhere.com/" target="_blank"><img src="/public/brands/AgriHire_Solutions.svg" width="100%" alt="AgriHire Solutions"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/AgriHire-Solutions" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://agrihireaq.pythonanywhere.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Flask, ECharts</strong></p>
+      </div>
+    </td>
   </tr>
 </table>
 </details>
 
-<!-- ... (rest of the README content remains the same) ... -->
 
 
 
