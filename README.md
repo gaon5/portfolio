@@ -315,7 +315,62 @@ while (isAwake) {
 
 
 
-
+<!-- Educational Tools Section -->
+<details>
+<summary><h3>📚 Educational Tools</h3></summary>
+<table>
+  <tr>
+    <td width="20%">
+      <h3 align="center">English Redefine</h3>
+      <div align="center">  
+        <a href="https://english-redefine.vercel.app/" target="_blank"><img src="/public/brands/EnglishRedefine.svg" width="50%" alt="English Redefine"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/english-redefine" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://english-redefine.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Tailwind</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">Library Management</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666/library-management-system" target="_blank"><img src="/public/brands/library-management-system.svg" width="50%" alt="Library Management System"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/library-management-system" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Supabase</strong></p>
+      </div>
+    </td>
+    <td width="20%">
+      <h3 align="center">README Template</h3>
+      <div align="center">  
+        <a href="https://github.com/ChanMeng666" target="_blank"><img src="/public/brands/shakeheaddog.gif" width="50%" alt="README Template"/></a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/ChanMeng666/ChanMeng666" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://github.com/ChanMeng666" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Markdown, HTML</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
+</details>
 
 
 
