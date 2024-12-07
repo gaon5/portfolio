@@ -1,6 +1,8 @@
 <div align="center">
   <img src="/public/brands/summer (2).svg" width="150" height="150" alt="Summer Logo">
+  
   # Hi there, I'm Summer 👋🏻
+  
   <p>
     <em>🌟 A dreamer and lover of life</em> <br>
     <em>🌱 Between the dream and reality lies my faith and action</em> <br>
