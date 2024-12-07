@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/public/brands/chan_monkey_logo_black.svg" width="100" height="100" alt="Chan Meng Logo">
+  <img src="/public/brands/coal_diamond.svg" width="100" height="100" alt="Summer Logo">
 
   # Hi there, I'm Summer 👋🏻
 
