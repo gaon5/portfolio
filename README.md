@@ -1,19 +1,14 @@
 <div align="center">
-  <img src="/public/brands/chan_monkey_logo_black.svg" width="100" height="100" alt="Chan Meng Logo">
+  <img src="/public/brands/na-portrait.jpg" width="100" height="100" alt="Chan Meng Logo">
 
   # Hi there, I'm Summer 👋🏻
 
   <p>
-    <em>🌿 A minimalist</em> <br>
-    <em>➖ Subtraction for life</em> <br>
-    <em>➕ Addition for thought</em>
+    <em>🌟 A dreamer and lover of life</em> <br>
+    <em>🌱 Between the dream and reality lies my faith and action</em> <br>
+    <em>✨ Turning life's journey into a canvas of fulfilled dreams</em>
   </p>
 
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chanmeng66u)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://chanmeng.live/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanmeng666/)
-
-  <img src="/public/chan_snorkelling.gif" width="100%" alt="Chan Meng Snorkelling">
 </div>
 
 <details>
