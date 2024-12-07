@@ -11,19 +11,6 @@
 
 </div>
 
-<details>
-<summary><h2>🤞 My Promise</h2></summary>
-
-```java
-while (isAwake) {
-    code();
-    eat();
-    sleep();
-    repeat();
-}
-```
-</details>
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <!-- Primary Projects (Always Visible) -->
