@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/public/brands/IMG_0258 3.jpg" width="100" height="100" alt="Chan Meng Logo">
+  <img src="/public/brands/chan_monkey_logo_black.svg" width="100" height="100" alt="Chan Meng Logo">
 
   # Hi there, I'm Summer 👋🏻
 
