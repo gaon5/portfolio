@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/public/brands/chan_monkey_logo_black.svg" width="100" height="100" alt="Chan Meng Logo">
 
-  # Hi there, I'm Chan Meng 👋🏻
+  # Hi there, I'm Summer 👋🏻
 
   <p>
     <em>🌿 A minimalist</em> <br>
