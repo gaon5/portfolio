@@ -27,9 +27,9 @@
           <a href="https://github.com/gaon5/PMSystem" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
           </a>
-         
         </p>
-        <p><strong>Functional, Performance, Load, System, Integration, Regression Testing</strong></p>
+        <p><strong>Functional, Performance, Load, System, Integration, Regression Testing</strong>
+        </p>
       </div>
     </td>
     <td width="20%">
@@ -70,14 +70,12 @@
       <h3 align="center">Caffeinate Payment System</h3>
       <div align="center">  
         <img src="/public/brands/COFFEE.svg" width="100%" alt="Streamlit Logo">
-
         <br>
         <br>
         <p>
           <a href="https://github.com/gaon5/Caffeinate" target="_blank">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-          </a>
-          
+          </a>  
         </p>
         <p><strong>CI/CD, Cucumber, BDD</strong></p>
       </div>
