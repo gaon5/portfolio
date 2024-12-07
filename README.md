@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/public/brands/coal_diamond.svg" width="150" height="150" alt="Summer Logo">
+  <img src="/public/brands/summer (1).svg" width="150" height="150" alt="Summer Logo">
 
   # Hi there, I'm Summer 👋🏻
 
