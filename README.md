@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td width="20%">
-      <h3 align="center">CORDE Mobile</h3>
+      <h3 align="center">SMART Property Management</h3>
       <div align="center">  
         <a href="https://corde-mobile-application-4yw7mtt.gamma.site/" target="_blank"><img src="/public/brands/CORDE.svg" width="100%" alt="CORDE Mobile App"/></a>
         <br>
