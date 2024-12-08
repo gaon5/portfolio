@@ -80,6 +80,23 @@
         <p><strong>CI/CD, Cucumber, BDD</strong></p>
       </div>
     </td>
+    <td width="20%">
+      <h3 align="center">Waikirikiri Swim Centre Management System</h3>
+      <div align="center">  
+        <img src="/public/brands/swim_pool.svg" width="100%" alt="Streamlit Logo">
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/gaon5/swimapp" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+          </a>  
+           <a href="https://ngao5.pythonanywhere.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Python, Flask, Mysql, unittest, Cloud Deployment, Git control, CI/CD</strong></p>
+      </div>
+    </td>
         
   </tr>
 </table>
