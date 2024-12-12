@@ -20,7 +20,7 @@
     <td width="20%">
       <h3 align="center">SMART Property Management</h3>
       <div align="center">  
-        <a href="http://wy.lemonban.com:3000/user.html#/pages/frame/login" target="_blank"><img src="/public/brands/property.svg" width="100%" alt="SMART Property Management"/></a>
+        <a  href="https://github.com/gaon5/PMSystem" target="_blank"><img src="/public/brands/property.svg" width="100%" alt="SMART Property Management"/></a>
         <br>
         <br>
         <p>
