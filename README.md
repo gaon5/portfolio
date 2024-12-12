@@ -70,7 +70,6 @@
       <h3 align="center">Caffeinate Payment System</h3>
       <div align="center">
         <a  href="https://github.com/gaon5/Caffeinate" target="_blank"><img src="/public/brands/COFFEE.svg" width="100%" alt="coffee"/></a>
-
         <br>
         <br>
         <p>
@@ -102,7 +101,7 @@
   </tr>
 </table>
 
-<!-- Web Applications Section -->
+<!-- QA Section -->
 <details open>
 <summary><h3>🌐 QA Experience</h3></summary>
 <table>
