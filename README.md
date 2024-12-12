@@ -68,8 +68,9 @@
     </td>
     <td width="20%">
       <h3 align="center">Caffeinate Payment System</h3>
-      <div align="center">  
-        <img src="/public/brands/COFFEE.svg" width="100%" alt="Streamlit Logo">
+      <div align="center">
+        <a  href="https://github.com/gaon5/Caffeinate" target="_blank"><img src="/public/brands/COFFEE.svg" width="100%" alt="coffee"/></a>
+
         <br>
         <br>
         <p>
